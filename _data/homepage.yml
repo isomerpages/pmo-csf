@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Agency logo
+agency-logo: /images/csf-logo.png
+
+# Hero Banner
+hero-title: Centre for Strategic Futures
+hero-subtitle: Building a strategically agile public service ready to manage a complex and fast-changing environment
+hero-banner: /images/banner_GardenBay.png
+
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+# Resources Section
+resources-title: Media Centre
+resources-subtitle: Latest News
+resources-more-button: More Media
+resources-more-button-url: media-centre/
