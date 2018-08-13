@@ -9,6 +9,8 @@ breadcrumb: Who We Are
 
 CSF’s vision is to build a strategically agile public service ready to manage a complex and fast-changing environment.
 
+![Test image of NEL]("/images/nel-map.png" | absolute_url)
+
 ### **Mission**
 
 CSF’s mission is to position the Singapore government to navigate emerging strategic challenges and harness potential opportunities by:
