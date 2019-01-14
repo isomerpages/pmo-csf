@@ -1,0 +1,28 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/
+- title: Our Work
+  url: /our-work/our-approach/
+  sub-links:
+  - title: Our Approach
+    url: /our-work/our-approach/
+  - title: Foresight Conference
+    url: /our-work/our-approach/
+  - title: Networks
+    url: /our-work/networks/
+- title: Media Centre
+  url: /media-centre/
+  sub-links:
+  - title: All
+    url: /media-centre/
+  - title: Publications
+    url: /media-centre/publications/
+  - title: Speeches
+    url: /media-centre/speeches/
+- title: Contact Us
+  url: /contact-us/
