@@ -7,11 +7,11 @@ title: FAQ
 
 ### **Frequently Asked Questions**
 
-### **1. Where is the CSF sited within the Singapore government?** 
+#### **1. Where is the CSF sited within the Singapore government?** 
 
 CSF is part of the Strategy Group in the Prime Minister’s Office, nested within the Strategic Planning & Futures Directorate. 
 
-### **2. Does CSF conduct futures training and where can I sign up for it?**
+#### **2. Does CSF conduct futures training and where can I sign up for it?**
 
 CSF conducts a suite of courses called FutureCraft, hosted at the Singapore Civil Service College, for public officers in the Singapore government. If you are currently not a public officer in the Singapore government, other locally-run courses that you might wish to consider those conducted by the Lee Kuan Yew School of Public Policy on futures thinking and scenario planning.
 
