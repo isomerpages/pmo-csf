@@ -1,8 +1,8 @@
 ---
-layout: contact-ua
+layout: simple-page
+title: Foresight Conference
 permalink: /foresight-conference/
 breadcrumb: Foresight Conference
-title: Foresight Conference
 ---
 
 #### **Foresight Conference 2017**
