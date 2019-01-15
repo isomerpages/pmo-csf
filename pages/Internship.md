@@ -40,7 +40,7 @@ Calls for internship applications are listed below:
 
 For more information on eligibility and the application process, please refer to the [brochure](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/internship-programme-2019-brochure.pdf) (PDF, 1.1Mb).  
 
-If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Kenneth_Poon@pmo.gov.sg]mailto:Kenneth_Poon@pmo.gov.sg)
+If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Kenneth_Poon@pmo.gov.sg](mailto:Kenneth_Poon@pmo.gov.sg)
 
 Please include in your email the subject header: 
 "CSF Internship Month-Month <Name> <School> <Degree Course>"
