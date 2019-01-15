@@ -18,4 +18,5 @@ Calls for internship applications are listed below:
 | Sep – Dec  | May 2019  | 15 Jun 2019  |
 
 
-<iframe width="560" height="315" src="https://vimeo.com/185296342" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/185292860">Yuhuai talks about his greatest challenge at the CSF internship</a> from <a href="https://vimeo.com/csfpmosg">Centre for Strategic Futures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
