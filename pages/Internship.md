@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Internship Programme
+title: 
 permalink: /Internship-programme/
 breadcrumb: Internship Programme
 ---
