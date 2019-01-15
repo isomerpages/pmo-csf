@@ -1,5 +1,5 @@
 ---
-layout: foresight-conference
+layout: contact-ua
 permalink: /foresight-conference/
 breadcrumb: Foresight Conference
 title: Foresight Conference
