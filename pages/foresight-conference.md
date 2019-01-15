@@ -34,5 +34,5 @@ Participants included:
 * **Mathew Mathews,** Senior Research Fellow at the Institute of Policy Studies who examines issues around societal cohesion.
 The conference website can be found [here.](https://stratfutures.wixsite.com/foresightconference)
 
-[View PDF](/media-centre/csf-foresight-conference-2017-report.pdf)
+[View PDF](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/csf-foresight-conference-2017-report.pdf)
 
