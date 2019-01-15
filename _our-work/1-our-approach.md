@@ -12,6 +12,14 @@ The Centre for Strategic Futures (CSF) has developed its own set of foresight to
 
 ### **SP+ serves six key purposes:**
 
+![Image1](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.49.53%20AM.png)
+![Image2](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.50.15%20AM.png)
+![Image3](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.50.20%20AM.png)
+![Image4](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.50.26%20AM.png)
+![Image4](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.50.31%20AM.png)
+![Image5](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2011.50.43%20AM.png)  
+
+
 ##### **Defining Focus**
 
 To establish the nature of a problem, tools such as complexity theorist Dave Snowden’s Cynefin Framework Problem Definition are used. This framework divides problems into five domains -- simple, complicated, complex, chaotic and disorder -- in order to categorise problems and find appropriate solutions based on the domain they belong to.
