@@ -15,7 +15,7 @@ One of the key roles of CSF is to share the SP+ toolkit across Government. A mai
 
 This introductory course provides  a “taster” of the various aspects of foresight work in Government, and exposes budding futurists to a range of basic tools. 
 
-View more details on FutureCraft 101 [here.](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?ePID=43csqlr77lrpi9jsc776fjamhw)
+View more details on FutureCraft 101 [here.](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?ePID=43csqlr77lrpi9jsc776fjamhw){:target="_blank"}
 
 #### **FutureCraft 102: SP+ Tools and Facilitation**
 
