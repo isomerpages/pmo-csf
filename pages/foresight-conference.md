@@ -32,4 +32,7 @@ Participants included:
 * **Rohan Mukherjee,** Associate Professor at Yale-National University of Singapore, who has worked on nationalism in India and its interaction with political goals, as well as the intersection of identity politics and foreign policy.  
 
 * **Mathew Mathews,** Senior Research Fellow at the Institute of Policy Studies who examines issues around societal cohesion.
-The conference website can be found here.
+The conference website can be found [here.](https://stratfutures.wixsite.com/foresightconference)
+
+[View PDF](/media-centre/csf-foresight-conference-2017-report.pdf)
+
