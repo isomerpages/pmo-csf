@@ -19,9 +19,22 @@ Calls for internship applications are listed below:
 
 ---  
 
+
+
+**Ming Kit on who should apply to CSF**
+<iframe src="https://player.vimeo.com/video/185296342" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>. 
+
+
+**Winston talks about his memorable experiences at CSF**  
+<iframe src="https://player.vimeo.com/video/194625983" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+
+**Zhi Xuan’s advice for new interns**  
+<iframe src="https://player.vimeo.com/video/185298228" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+
+
 **Yuhuai talks about this greatest challenge at the CSF internship**  
 <iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
   
   
-**Ming Kit on who should apply to CSF**
-<iframe src="https://player.vimeo.com/video/185296342" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
