@@ -42,7 +42,7 @@ For more information on eligibility and the application process, please refer to
 ---
 
 
-If you would like to apply, please submit your CV and latest transcript to: mailto:Inthira_Mailvaganam@pmo.gov.sg and mailto:Kenneth_Poon@pmo.gov.sg
+If you would like to apply, please submit your CV and latest transcript to: "mailto:Inthira_Mailvaganam@pmo.gov.sg" and "mailto:Kenneth_Poon@pmo.gov.sg"
 
 Please include in your email the subject header: 
 "CSF Internship Month-Month <Name> <School> <Degree Course>"
