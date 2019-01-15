@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Foresight Conference
-permalink: /foresight-conference/
-breadcrumb: Foresight Conference
+title: Internship
+permalink: /Internship/
+breadcrumb: Internship
 ---
 
 #### **Foresight Conference 2017**
