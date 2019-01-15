@@ -21,11 +21,11 @@ View more details on FutureCraft 101 [here.](https://www.cscollege.gov.sg/progra
 
 FutureCraft 102 focuses on various tools from our SP+ suite. Participants discuss possible trajectories of a given public policy issue with the help of these tools, and also learn how to facilitate conversations using these tools.
 
- View more details on FutureCraft 102 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8hsjspio5g699oc2ko6uvrn7vo)
+ View more details on FutureCraft 102 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8hsjspio5g699oc2ko6uvrn7vo){:target="_blank"}
 
 #### **FutureCraft 201: Scenario Planning**
 
 FutureCraft 201 is centred on the scenario planning methodology, from defining the focal concern and driving force analysis to constructing scenario frameworks, scenario-writing and translating scenarios to strategies.
 
-View more details on FutureCraft 201 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=dspjgw7irr13me14f3qejc26li)
+View more details on FutureCraft 201 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=dspjgw7irr13me14f3qejc26li){:target="_blank"}
 
