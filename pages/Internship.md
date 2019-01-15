@@ -36,11 +36,9 @@ Calls for internship applications are listed below:
 **Yuhuai talks about this greatest challenge at the CSF internship**  
 <iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
 
-
-For more information on eligibility and the application process, please refer to the [brochure](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/internship-programme-2019-brochure.pdf) (PDF, 1.1Mb).  
-
 ---
 
+For more information on eligibility and the application process, please refer to the [brochure](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/internship-programme-2019-brochure.pdf) (PDF, 1.1Mb).  
 
 If you would like to apply, please submit your CV and latest transcript to: "mailto:Inthira_Mailvaganam@pmo.gov.sg" and "mailto:Kenneth_Poon@pmo.gov.sg"
 
