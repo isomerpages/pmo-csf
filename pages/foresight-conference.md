@@ -36,3 +36,7 @@ The conference website can be found [here.](https://stratfutures.wixsite.com/for
 
 [View PDF](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/csf-foresight-conference-2017-report.pdf)
 
+## **Other Events**
+-
+-
+-
