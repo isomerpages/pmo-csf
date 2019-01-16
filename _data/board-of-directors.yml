@@ -2,7 +2,8 @@
   - name: Mr. Peter Ho
     title: Senior Advisor, Centre for Strategic Futures
     organisation: none 
-    image-url: https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/mr-peter-ho.png
+    image-url: https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/mr-peter-ho.png  
+    This is a text about peter ho
     
   - name: Person B
     title: Title B
