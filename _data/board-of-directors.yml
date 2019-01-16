@@ -1,0 +1,9 @@
+# Board of Directors
+  - name: Person A
+    title: Title A
+    organisation: Organisation A
+    image-url: /media-centre/mr-peter-ho.png
+  - name: Person B
+    title: Title B
+    organisation: Organisation B
+    image-url: /images/board-of-directors/Person_B.jpg
