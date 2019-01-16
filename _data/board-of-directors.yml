@@ -1,7 +1,7 @@
 # Board of Directors
   - name: Mr. Peter Ho
-    title: Senior Advisor, Centre for Strategic Futures
-    organisation: none 
+    title: Centre for Strategic Futures
+    organisation: Centre for Strategic Futures 
     image-url: https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/mr-peter-ho.png  
     
   - name: Person B
@@ -10,4 +10,4 @@
     image-url: /images/board-of-directors/Person_B.jpg
     
     
-This is a text about peter ho and I am hoping that this text will pop up on the page
+
