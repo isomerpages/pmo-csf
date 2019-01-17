@@ -10,12 +10,12 @@
     image-url: https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/ps-small0de9e5d076d766deb7fdff00000cf313.jpg
     
     
-- name: Ms ______
-    title: ____
+- name: Ms Insert name
+    title: This is a title
     organisation: Centre for Strategic Futures
     image-url: 
     
-    - name: Mr ___
-    title: ___
+    - name: Mr Insert Name
+    title: This is a title
     organisation: Centre for Strategic Futures
     image-url: 
