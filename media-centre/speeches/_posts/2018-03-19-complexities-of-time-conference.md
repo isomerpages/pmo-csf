@@ -10,4 +10,5 @@ permalink: "/media-centre/speeches/complexities-of-time-conference/"
 </div>
 
 
-<table class="table-h">  <tr>    <th>Tables</th>    <th>Are Cool</th>  </tr>  <tr>    <td> <a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf"/>This thelink text</a> </td>    <td>data</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
+<table class="table-h">  <tr>    <th>Tables</th>    <th>Are Cool</th>  </tr>  <tr>    
+<td> <a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf"/>This thelink text  </td>    <td>data</td>  </tr>  <tr>    <td>data</td>    <td>data</td>  </tr></table>
