@@ -32,4 +32,4 @@ The conference website can be found [here](https://stratfutures.wixsite.com/fore
 [Foresight Conference 2013](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/psd-foresight-conference-20133d5de5d076d766deb7fdff00000cf313.pdf){:target=_blank}  
 
 
-[Foresight Conference 2011](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target=_blank}  
+[Foresight Conference 2011](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}  
