@@ -25,7 +25,7 @@ breadcrumb: Privacy
 
 <p>6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services &nbsp;and encourage you to consult the privacy notices of those digital services.</p>
 
- 7. Please contact [pmo_csf@pmo.gov.sg](mailto:pmo_csf@pmo.gov.sg) if you: 
+ <p>7. Please contact <a href="mailto:pmo_csf@pmo.gov.sg">pmo_csf@pmo.gov.sg</a> if you: </p>
 
 (a) have any enquires or feedback on our data protection policies and procedures,
 
