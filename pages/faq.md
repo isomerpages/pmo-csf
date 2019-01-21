@@ -18,11 +18,11 @@ CSF conducts a suite of courses called FutureCraft, hosted at the Singapore Civi
 
 #### **3. Where can I find out more about career opportunities at CSF?** 
 
-Job vacancies at CSF will be posted on Careers@Gov.
+Job vacancies at CSF will be posted on [Careers@Gov.](https://www.careers.gov.sg)
 
 #### **4. How can I apply to be a CSF Fellow?**
 
-We are always on the lookout for interesting people who are keen to contribute their skills and expertise, so let us know what you would like to offer as a CSF Fellow by writing to us at pmo_csf@pmo.gov.sg. 
+We are always on the lookout for interesting people who are keen to contribute their skills and expertise, so let us know what you would like to offer as a CSF Fellow by writing to us at [pmo_csf@pmo.gov.sg](mailto:pmo_csf@pmo.gov.sg.) 
 
 #### **5. How can I apply for an internship at CSF?**
 
