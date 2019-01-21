@@ -10,21 +10,21 @@ Thank you for visiting the Strategy Group, Prime Minister's Office Web Site. By 
 
 ### **General**
 
-1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+  1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
 ### **Proprietary Rights**
 
-2. This Web Site is maintained by SG, PMO - the Strategy Group, Prime Minister's Office.
+  2. This Web Site is maintained by SG, PMO - the Strategy Group, Prime Minister's Office.
 
-3. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by SG, PMO.
+  3. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by SG, PMO.
 
 ### **Privacy Policy**
 
-4. Click [here]({{"/privacy/" | absolute_url}}) to review this Web Site Privacy Statement.
+  4. Click [here]({{"/privacy/" | absolute_url}}) to review this Web Site Privacy Statement.
 
 ### **Restrictions on use of Materials**
 
-5. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SG, PMO.
+  5. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SG, PMO.
 
 6. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of SG, PMO's copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of SG, PMO.
 
@@ -32,9 +32,9 @@ Thank you for visiting the Strategy Group, Prime Minister's Office Web Site. By 
 
 7. The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, SG, PMO does not warrant and hereby disclaims any warranty:
 
-<p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</p>
+(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</p>
 
-<p>(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.</p>
+(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.</p>
 
 8. SG, PMO shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
