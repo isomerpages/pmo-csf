@@ -21,11 +21,11 @@ breadcrumb: Privacy
 
 &nbsp; (c)  For your convenience, we may also display to you data you had previously supplied us or other Government Agencies.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. 
 
-<p>5.</p> To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
 
-<p>6.</p> This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services &nbsp;and encourage you to consult the privacy notices of those digital services.
+6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services &nbsp;and encourage you to consult the privacy notices of those digital services.
 
- <p>7.</p> Please contact <a href="mailto:pmo_csf@pmo.gov.sg">pmo_csf@pmo.gov.sg</a> if you: 
+ 7. Please contact <a href="mailto:pmo_csf@pmo.gov.sg">pmo_csf@pmo.gov.sg</a> if you: 
 
 (a) have any enquires or feedback on our data protection policies and procedures,
 
