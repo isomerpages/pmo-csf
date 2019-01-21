@@ -19,9 +19,9 @@ CSF meets over 200 thought leaders yearly through incoming visits, overseas trip
 Introduced in 2014, the Distinguished Visitors Programme brings thought leaders to Singapore to engage in extensive discussions with senior decision makers in the Public Service.
 
 Past Distinguished Visitors include:
-* **Mariana Mazzucato,** Professor in Economics of Innovation at the University of Sussex and author of The Entrepreneurial State: debunking public vs private sector myths; 
-* **Nassim Nicholas Taleb,** author of Black Swan and Antifragile, and Distinguished Professor of Risk Engineering, New York University;
-* **Richard Bookstaber,** author of The End of Theory and Option Pricing and Strategies in Investing and expert in financial risk management;
+* **Mariana Mazzucato,** Professor in Economics of Innovation at the University of Sussex and author of _The Entrepreneurial State: debunking public vs private sector myths;_ 
+* **Nassim Nicholas Taleb,** author of _Black Swan_ and _Antifragile,_ and Distinguished Professor of Risk Engineering, New York University;
+* **Richard Bookstaber,** author of _The End of Theory and Option Pricing and Strategies in Investing_ and expert in financial risk management;
 
 #### **Distinguished International Fellows Programme**
 
@@ -36,7 +36,7 @@ Other key contacts we had the privilege of working with in recent years include:
 
 * **Catherine Fieschi,** Director of United Kingdom think-tank Counterpoint and former helm of the think-tank of the British Council
 * **Itzik Ben Israel,** Chairperson of the Israel Space Agency
-* **Parag Khanna,** author of Connectography: Mapping the Future of Global Civilization
+* **Parag Khanna,** author of _Connectography: Mapping the Future of Global Civilization_
 * **Huw Price,** Academic Director of the Centre for the Study of Existential Risk
 * **April Rinne,** Sharing Economy Advisor
 * **David Skilling,** founding director of Landfall Strategy Group, an economic research and advisory firm
