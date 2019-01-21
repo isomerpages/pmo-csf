@@ -19,13 +19,13 @@ breadcrumb: Privacy
 
 &nbsp; (b)  We will NOT share your Personal Data with non-Government entities, except where such entities have been authorised to carry out specific Government services.  
 
-&nbsp; (c)  For your convenience, we may also display to you data you had previously supplied us or other Government Agencies.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. 
+&nbsp; (c)  For your convenience, we may also display to you data you had previously supplied us or other Government Agencies.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.   
 
-5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+&nbsp; 5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
 
-6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services &nbsp;and encourage you to consult the privacy notices of those digital services.
+&nbsp; 6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services &nbsp;and encourage you to consult the privacy notices of those digital services.
 
- 7. Please contact <a href="mailto:pmo_csf@pmo.gov.sg">pmo_csf@pmo.gov.sg</a> if you: 
+&nbsp; 7. Please contact <a href="mailto:pmo_csf@pmo.gov.sg">pmo_csf@pmo.gov.sg</a> if you: 
 
 (a) have any enquires or feedback on our data protection policies and procedures,
 
