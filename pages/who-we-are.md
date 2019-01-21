@@ -42,11 +42,9 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She previously served at the Ministry of Trade and Industry, where she worked on launching Singapore's third government-to-government project with China. Pei Shan is an alumna of the former Strategic Policy Office (the forerunner to the CSF), where she worked on foresight and whole-of-government strategy. She started her career in the Ministry of Defence covering regional politics, and subsequently human resource strategy. Pei Shan read Philosophy, Politics and Economics at the University of Oxford. She also has a Masters in Political Science from Columbia University and a Masters in Public Policy from Peking University.
 
-#### **Ms Jeanette KWEK,** *Deputy Head, Centre for Strategic Futures*
+#### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
-Jeanette returned to the Centre for Strategic Futures in August 2015. She joined the civil service in 2005, starting her career at the Defence Policy Office, MINDEF, where she worked on Singapore’s defence relations with international partners. In 2009, she joined the Strategic Policy Office (then at the Public Service Division), where she became one of the founding members of the CSF. During the early years of the CSF, Jeanette was involved in expanding the centre’s network of exciting minds and interesting personalities, growing futures capabilities across the public service, as well as organising and curating the first in an ongoing series of Foresight Conferences (now an integral part of Singapore’s Foresight Week).
-
-Jeanette is a political scientist and economist by training, having graduated with honours from the University of Chicago in 2005. She is married with two young children. In whatever spare time the children leave her with, she enjoys reading and drinking hot coffee.
+Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
 
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
