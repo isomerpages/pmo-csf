@@ -13,7 +13,7 @@ You can contact us via our online feedback form.
 
 **The Treasury**
 
-Strategy Group, Prime Minister's Office<br>
+Centre for Strategic Futures<br>
 100 High Street,<br> 
 03-01 The Treasury,<br>
 Singapore 179434
