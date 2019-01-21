@@ -20,7 +20,7 @@ Thank you for visiting the Strategy Group, Prime Minister's Office Web Site. By 
 
 ### **Privacy Policy**
 
-<p>4. Click <a href="({{"/privacy/" | absolute_url}})">[here]</a> to review this Web Site Privacy Statement.</p>
+<p>4. Click <a href="{{"privacy" | absolute_url}}">[here]</a> to review this Web Site Privacy Statement.</p>
 
 ### **Restrictions on use of Materials**
 
