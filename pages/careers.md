@@ -20,3 +20,5 @@ Strategy Group also provides a platform for you to take the road less travelled 
 ![ALt text]({{"/images/careers.jpg" | absolute_url}})
 
 To view and apply for available positions in SG, please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=strategy%20group&job-mail-subscribe-privacy=agree){:target="_blank"}.
+
+This is a test page to see whether this page is working or not.. This page has no open links to the main CSF website
