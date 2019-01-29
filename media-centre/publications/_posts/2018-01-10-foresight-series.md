@@ -9,4 +9,4 @@ permalink: "/media-centre/publications/Foresight-Series"
 [Foresight 2014]()  
 [Foresight 2017]()  
 [Participatory Foresight]()  
-[Foresight a Glossary](/media-centre/publications/csf-csc_foresight--a-glossary.pdf){:target="_blank"}
+[Foresight a Glossary](files/media-centre/publications/csf-csc_foresight--a-glossary.pdf){:target="_blank"}
