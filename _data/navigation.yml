@@ -14,8 +14,6 @@
   sub-links:
   - title: Our Approach
     url: /our-work/our-approach/
-  - title: Foresight Conference
-    url: /our-work/foresight-conference/
   - title: Networks
     url: /our-work/networks/
   - title: Futurecraft
@@ -28,7 +26,9 @@
   - title: Publications
     url: /media-centre/publications/
   - title: Speeches
-    url: /media-centre/speeches/    
+    url: /media-centre/speeches/   
+- title: Foresight Conference
+  url: /our-work/foresight-conference/
 - title: Contact Us
   url: /contact-us/
   sub-links:
