@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 permalink: /our-work/foresight-conference/ 
 title: Foresight Conference
 breadcrumb: Foresight Conference
