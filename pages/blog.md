@@ -1,6 +1,6 @@
 ---
 layout: simple-page
 title: Blog
-permalink: /blog-here/
+permalink: /https://medium.com/@pmo_csf/
 breadcrumb: Blog
 ---
