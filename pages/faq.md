@@ -32,5 +32,5 @@ CSF has three internship periods:
 * May to Aug (Summer)
 * September to December
 
-Applications take place in the preceding October, February and June respectively. If you are a year 2 to 4 university student and are interested to apply, please submit your CV and latest transcript to [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Hannah_Chia@pmo.gov.sg](mailto:Hannah_Chia@pmo.gov.sg) with subject header “CSF Internship Month-Month (Name)(School)(Degree Course). 
+Applications take place in the preceding October, February and June respectively. If you are a year 2 to 4 university student and are interested to apply, please submit your CV and latest transcript to [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Kenneth_Poon@pmo.gov.sg](mailto:Kenneth_Poon@pmo.gov.sg) with subject header “CSF Internship Month-Month (Name)(School)(Degree Course). 
   
