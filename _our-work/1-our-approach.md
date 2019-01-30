@@ -16,7 +16,7 @@ The Centre for Strategic Futures (CSF) has developed its own set of foresight to
 
 
 ##### **Defining Focus**
-![Image1.5](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2012.02.15%20PM.png)
+![Image1.5](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/sp1.png)
 To establish the nature of a problem, tools such as complexity theorist Dave Snowden’s Cynefin Framework Problem Definition are used. This framework divides problems into five domains -- simple, complicated, complex, chaotic and disorder -- in order to categorise problems and find appropriate solutions based on the domain they belong to.
 
 ##### **Environmental Scanning**
