@@ -10,4 +10,4 @@ permalink: "/media-centre/publications/Foresight-glossary"
 
 What is a "black swan"? What are "wicked problems"?    
 
-[Foresight a Glossary](/files/media-centre/publications/csf-csc_foresight--a-glossary.pdf){:target="_blank"}
+[Foresight a Glossary (4MB)](/files/media-centre/publications/csf-csc_foresight--a-glossary.pdf){:target="_blank"}
