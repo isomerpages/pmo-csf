@@ -2,7 +2,7 @@
 layout: post
 title:  "ESI Project 2.0 "
 date:   2018-08-07
-file_url: "/media-centre/publications/future-deck-cards"
+permalink: "/media-centre/publications/future-deck-cards"
 ---
 
 
