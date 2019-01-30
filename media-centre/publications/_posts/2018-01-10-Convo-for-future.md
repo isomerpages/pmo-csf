@@ -5,7 +5,7 @@ date:   2018-01-10
 permalink: "/media-centre/publications/Convo-for-future"
 ---
 
-#### CFTF(Series)
+#### **CFTF(Series)**
 
 [Volume 1: Singapore’s Experiences with Strategic Planning (1988-2001) (5MB)](files/media-centre/publications/conversations-for-the-future.pdf){:target="_blank}
 
