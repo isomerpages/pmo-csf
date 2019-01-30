@@ -2,7 +2,7 @@
 layout: post
 title:  "Driving Forces Cards 2035 "
 date:   2018-08-07
-file_url: "/media-centre/publications/Csf-df-cards"
+permalink: "/media-centre/publications/Csf-df-cards"
 ---
 
 #### **Driving Forces Cards 2035**
