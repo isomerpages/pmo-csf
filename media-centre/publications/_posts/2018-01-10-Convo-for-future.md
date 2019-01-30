@@ -7,7 +7,7 @@ permalink: "/media-centre/publications/Convo-for-future"
 
 #### **CFTF(Series)**
 
-[Volume 1: Singapore’s Experiences with Strategic Planning (1988-2001) (5MB)](files/media-centre/publications/conversations-for-the-future.pdf){:target="_blank}
+[Volume 1: Singapore’s Experiences with Strategic Planning (1988-2001) (5MB)](/files/media-centre/publications/conversations-for-the-future.pdf){:target="_blank}
 
 The CSF team shares some of the key lessons that Singapore has gleaned in the course of conducting experiments about the future, communicating insights to decision-makers, and continually learning from a wide network of friends.
 
