@@ -12,7 +12,7 @@ The Centre for Strategic Futures (CSF) has developed its own set of foresight to
 
 ### **SP+ serves six key purposes:**
 
-![Image1](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-15%20at%2012.02.35%20PM.png) 
+![Image1](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Screenshot%202019-01-30%20at%2010.19.16%20AM.png) 
 
 
 ##### **Defining Focus**
