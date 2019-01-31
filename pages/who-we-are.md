@@ -40,19 +40,19 @@ Peter Ho is the Senior Advisor to the Centre for Strategic Futures, a Senior Fel
 Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Chairman of the Social Science Research Council (SSRC), Chairman of the Singapore Centre on Environmental Life Sciences Engineering (SCELSE), Chairman of the National Supercomputing Centre (NSCC) Steering Committee, and Chairman of the Campus for Research Excellence and Technological Enterprise (CREATE) Governing Council. He is a member of the Board of Trustees of the National University of Singapore (NUS), and a board member of the National Research Foundation (NRF), a member of the Board of Governors of the S Rajaratnam School of International Studies (RSIS), and of the Lee Kuan Yew School of Public Policy (LKYSPP).
 
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
----
+\
 
 ![LPS](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/LPSMini.jpg)
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
 Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She previously served at the Ministry of Trade and Industry, where she worked on launching Singapore's third government-to-government project with China. Pei Shan is an alumna of the former Strategic Policy Office (the forerunner to the CSF), where she worked on foresight and whole-of-government strategy. She started her career in the Ministry of Defence covering regional politics, and subsequently human resource strategy. Pei Shan read Philosophy, Politics and Economics at the University of Oxford. She also has a Masters in Political Science from Columbia University and a Masters in Public Policy from Peking University.  
----
+\
 
 ![MLT](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/MLTMini.jpg)
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
 Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
----
+\
 
 ![LCP](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/LCPMini.jpg)
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
