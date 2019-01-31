@@ -30,6 +30,9 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 
 ### **Our Leadership Team**
 
+
+
+![Peter-Ho](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/PeterHoResized.jpg)
 #### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
 
 Peter Ho is the Senior Advisor to the Centre for Strategic Futures, a Senior Fellow in the Civil Service College, and a Visiting Fellow at the Lee Kuan Yew School of Public Policy.
