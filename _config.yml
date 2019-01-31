@@ -52,8 +52,7 @@ breadcrumbs:
 resources_name: "media-centre"
 paginate: 12
 paginate_path: "/media-centre/page:num"
-pagination:
-  reverse: true
+
 
 # Homepage sections
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights 
