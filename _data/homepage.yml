@@ -7,6 +7,9 @@
 # Agency logo
 agency-logo: /images/CSFinHighRes.png
 
+# Favicon
+favicon: /images/0.png
+
 # Hero Banner
 hero-title: Centre for Strategic Futures
 hero-subtitle: Building a strategically agile public service ready to manage a complex and fast-changing environment
