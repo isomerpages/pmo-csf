@@ -8,16 +8,13 @@
 # Favicon
 favicon: /images/CSFFavicon.ico
 
-
 # Agency logo
 agency-logo: /images/LogoLock.jpg
-
 
 # Hero Banner
 hero-title: Centre for Strategic Futures
 hero-subtitle: Building a strategically agile public service ready to manage a complex and fast-changing environment
 hero-banner: /images/BugisBanner.JPG
-
 
 #Call to Action Button
 button:
