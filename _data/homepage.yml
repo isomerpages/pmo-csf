@@ -4,11 +4,14 @@
 #                                #
 ##################################
 
-# Agency logo
-agency-logo: /images/CroppedCSF.jpg
 
 # Favicon
 favicon: /images/0.png
+
+
+# Agency logo
+agency-logo: /images/CroppedCSF.jpg
+
 
 # Hero Banner
 hero-title: Centre for Strategic Futures
