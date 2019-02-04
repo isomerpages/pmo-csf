@@ -3,7 +3,7 @@ layout: simple-page
 permalink: /our-work/foresight-conference/ 
 title: Foresight Conference
 breadcrumb: Foresight Conference
-collection_name: our-work
+
 ---
 
 ### **Foresight Conference 2017**
