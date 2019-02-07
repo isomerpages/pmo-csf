@@ -37,13 +37,15 @@ Calls for internship applications are listed below:
 ---
 
 **Zhi Xuan’s advice for new interns**  
-<iframe src="https://player.vimeo.com/video/185298228" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/185298228" width="640" height="357" frameborder="0" allowfullscreen></iframe> 
+</div>
 ---
 
 **Yuhuai talks about this greatest challenge at the CSF internship**  
-<iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
-
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" allowfullscreen></iframe>  
+</div>
 ---
 
 For more information on eligibility and the application process, please refer to the [brochure](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/internship-programme-2019-brochure.pdf) (PDF, 1.1Mb).  
