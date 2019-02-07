@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Blog
-permalink: /blog-here/
+permalink: /[[https://medium.com/@pmo_csf| page_title tthis is title ]]/
 breadcrumb: Blog
 ---
 
