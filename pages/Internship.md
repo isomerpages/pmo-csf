@@ -24,7 +24,8 @@ Calls for internship applications are listed below:
 **Ming Kit on who should apply to CSF**
 <iframe src="https://player.vimeo.com/video/185296342" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    
 
-<div class="relative aspect-16x9">  <iframe class="absolute pin">https://player.vimeo.com/video/185296342" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/185296342" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
 
 
 ---
