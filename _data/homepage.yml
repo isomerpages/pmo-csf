@@ -8,7 +8,7 @@
 # Favicon
 favicon: /images/CSF-Favicon.ico
 
-<link rel="icon" href="{{"images/CSF-Favicon.ico"}}" type="image/x-icon" />
+<link rel="icon" href="{{ site.baseurl }}/CSF-Favicon.ico"" type="image/ico" />
 
 # Agency logo
 agency-logo: /images/CSF-Logo-01.png
