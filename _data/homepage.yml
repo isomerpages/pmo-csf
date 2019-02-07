@@ -8,7 +8,7 @@
 # Favicon
 favicon: /images/CSF-Favicon.ico
 
-<link rel="icon" href="{{ site.baseurl }}/CSF-Favicon.ico"" type="image/ico" />
+<link rel="icon" href="{{ https://github.com/isomerpages/isomerpages-csf/blob/master }}/CSF-Favicon.ico"" type="image/ico" />
 
 # Agency logo
 agency-logo: /images/CSF-Logo-01.png
