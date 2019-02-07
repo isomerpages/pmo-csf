@@ -7,9 +7,6 @@
 
 # Favicon
 favicon: /images/CSFFavicon.png
-<link rel="Favicon" 
-      type="image/png" 
-      href="{{ '/CSFFavicon.png' | isomerpages-csf/images/CSFFavicon.png }}" >
 
 
 
