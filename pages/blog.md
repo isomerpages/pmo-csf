@@ -5,6 +5,6 @@ permalink: /blog-here/
 breadcrumb: Blog
 ---
 
-[Go to blog here](https://medium.com/@pmo_csf)
 
-Try to make it relative and make it  got to the said website instead of t just linking it up to another webpage.
+
+The CSF [blog](https://medium.com/@pmo_csf) is a space  to share  shorter think-pieces and reflections. For any comments or suggestions, do contact us via [pmo_csf@pmo.gov.sg](mailto:pmo_csf@pmo.gov.sg)
