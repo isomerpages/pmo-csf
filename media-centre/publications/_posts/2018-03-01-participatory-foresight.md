@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Participatory Foresight"
-date:   2017-01-12
+date:   2018-03-01
 permalink: "/media-centre/publications/Participatory-foresight"
 ---
 
