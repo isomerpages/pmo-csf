@@ -27,10 +27,10 @@ Participants included:
 
 The conference website can be found [here](https://stratfutures.wixsite.com/foresightconference){:target="_blank"}  
 
-[Foresight Conference 2015](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-2015-proceedings5e5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
+[Foresight Conference 2015 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-2015-proceedings5e5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
 
 
-[Foresight Conference 2013](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/psd-foresight-conference-20133d5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
+[Foresight Conference 2013 (2MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/psd-foresight-conference-20133d5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
 
 
-[Foresight Conference 2011](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}  
+[Foresight Conference 2011 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}  
