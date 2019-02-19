@@ -29,6 +29,8 @@
 - title: Contact Us
   url: /contact-us/
   sub-links:
+  - title: Contact Information
+    url: /contact-us/
   - title: Internship programme
     url: /Internship-programme/
 - title: Blog
