@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conversations for the Future(Series)"
+title:  "Conversations for the Future"
 date:   2018-01-10
 permalink: "/media-centre/publications/Convo-for-future"
 ---
