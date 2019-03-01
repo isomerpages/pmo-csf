@@ -42,7 +42,7 @@ Calls for internship applications are listed below:
 ---
 
 **Yuhuai talks about this greatest challenge at the CSF internship**  
-
+<div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/185292860" width="640" height="357" frameborder="0" allowfullscreen></iframe>  
 </div>
 ---
