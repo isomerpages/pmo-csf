@@ -2,7 +2,7 @@
 layout: simple-page
 title: Blog
 permalink: /foresight-conference/
-breadcrumb: Foresigh Conference
+breadcrumb: Foresight Conference
 ---
 
 
