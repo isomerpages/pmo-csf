@@ -25,7 +25,7 @@ To systematically examine the external environment to understand its nature and 
 
 ##### **Sense Making**
 ![Image3](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/SP3Edited.png)  
-To use raw information to piece together a comprehensive and comprehensible picture of an issue. For instance, we use Driving Forces Analysis and Prioritisation as a tool to examine how potential trigger events can alter existing trends, and then prioritise them based on their potential impact on stakeholders. For more information on how to use this tool, please see [Driving Forces Cards](https://isomer-csf-prototype.netlify.com/files/media-centre/publications/csf-df-cards.pdf){:target="_blank"} in our Publications page.   
+To use raw information to piece together a comprehensive and comprehensible picture of an issue. For instance, we use Driving Forces Analysis and Prioritisation as a tool to examine how potential trigger events can alter existing trends, and then prioritise them based on their potential impact on stakeholders. For more information on how to use this tool, please see [Driving Forces Cards](https://isomer-csf-prototype.netlify.com/files/media-centre/publications/csf-df-cards.pdf) in our Publications page.   
 Another tool is the Strengths/Weaknesses/Opportunities/Threats (SWOT) framework, used to systematically think about an issue from four key angles in order to identify which areas need the most attention.
 
 ##### **Monitoring**
