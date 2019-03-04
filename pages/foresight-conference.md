@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Blog
+title: Foresight Conference
 permalink: /foresight-conference/
 breadcrumb: Foresight Conference
 ---
