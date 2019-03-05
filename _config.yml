@@ -57,6 +57,7 @@ paginate_path: "/media-centre/page:num"
 # Homepage sections
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights 
 homepage_resources: true
+homepage_careers: true
 
 # Feedback Form URL
 feedback_form_url: "https://form.gov.sg/forms/pmo/5c36e6ed25bc5b0017433c85"
