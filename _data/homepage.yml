@@ -9,7 +9,7 @@
 favicon: /images/CSFFavicon.png
 
 # Image to appear on all pages when shared via WhatsApp, Facebook, etc
-shareicon: /images/CSFShareImage.png
+shareicon: /images/ShareIcon.png
 
 # Agency logo
 agency-logo: /images/CSF-Logo-01.png
