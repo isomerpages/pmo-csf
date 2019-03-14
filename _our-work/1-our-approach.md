@@ -12,32 +12,32 @@ The Centre for Strategic Futures (CSF) has developed its own set of foresight to
 
 ### **SP+ serves six key purposes:**
 
-![Image1](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/NewDefiningFocus.jpg) 
+![Image1](/files/media-centre/NewDefiningFocus.jpg) 
 
 
 ##### **Defining Focus**
-![Image1.5](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle1.jpg)  
+![Image1.5](/files/media-centre/Circle1.jpg)  
 To establish the nature of a problem, tools such as complexity theorist Dave Snowden’s Cynefin Framework Problem Definition are used. This framework divides problems into five domains -- simple, complicated, complex, chaotic and disorder -- in order to categorise problems and find appropriate solutions based on the domain they belong to.
 
 ##### **Environmental Scanning**
-![Image2](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle2.jpg)  
+![Image2](/files/media-centre/Circle2.jpg)  
 To systematically examine the external environment to understand its nature and pace of change, and to identify potential challenges and opportunities. Tools include Emerging Issues Analysis, where we engage a wide range of thought leaders in various sectors to identify critical emerging issues.
 
 ##### **Sense Making**
-![Image3](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle3.jpg)  
-To use raw information to piece together a comprehensive and comprehensible picture of an issue. For instance, we use Driving Forces Analysis and Prioritisation as a tool to examine how potential trigger events can alter existing trends, and then prioritise them based on their potential impact on stakeholders. For more information on how to use this tool, please see [Driving Forces Cards (8MB)](https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/publications/csf-df-cards.pdf){:target="_blank"} in our Publications page.  
+![Image3](/files/media-centre/Circle3.jpg)  
+To use raw information to piece together a comprehensive and comprehensible picture of an issue. For instance, we use Driving Forces Analysis and Prioritisation as a tool to examine how potential trigger events can alter existing trends, and then prioritise them based on their potential impact on stakeholders. For more information on how to use this tool, please see [Driving Forces Cards (8MB)](/files/media-centre/publications/csf-df-cards.pdf){:target="_blank"} in our Publications page.    
 Another tool is the Strengths/Weaknesses/Opportunities/Threats (SWOT) framework, used to systematically think about an issue from four key angles in order to identify which areas need the most attention.
 
 ##### **Monitoring**
-![Image4](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle4.jpg)  
+![Image4](/files/media-centre/Circle4.jpg)  
 To track relevant indicators of anticipated futures or implemented strategies. One such tool is Early Warning Systems, used to analyse risks, monitor and warn of potential critical threats, and build a response capability to these threats.
 
 ##### **Designing Strategies**
-![Image5](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle5.jpg)  
+![Image5](/files/media-centre/Circle5.jpg)  
 To craft strategies by taking into account insights into the future using tools such as War-Gaming, in which strategies and conflict simulations are explored within a fictional scenario game.
 
 ##### **Developing Possible Futures**
-![Image6](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Circle6.jpg)  
+![Image6](/files/media-centre/Circle6.jpg)  
 To create narratives and models to understand plausible future states. Tools include Scenario Planning, where stories of plausible future scenarios are used to challenge assumptions and trigger thinking about long-term strategies, and Backcasting, which starts with defining a desired or feared future, and then working backwards to identify the policies or programmes that will connect the present to the future.
 
 ### **Futures Conversations**
