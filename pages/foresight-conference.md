@@ -27,6 +27,9 @@ Participants included:
 
 The conference website can be found [here](https://stratfutures.wixsite.com/foresightconference){:target="_blank"}  
 
+
+[Foresight Conference 2017 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/csf-foresight-conference-2017-report.pdf)
+
 [Foresight Conference 2015 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-2015-proceedings5e5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
 
 
