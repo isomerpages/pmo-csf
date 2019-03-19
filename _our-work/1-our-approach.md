@@ -29,7 +29,7 @@ To use raw information to piece together a comprehensive and comprehensible pict
 Another tool is the Strengths/Weaknesses/Opportunities/Threats (SWOT) framework, used to systematically think about an issue from four key angles in order to identify which areas need the most attention.
 
 ##### **Monitoring**
-![Image4](/files/media-centre/Circle4.jpg)  
+![Image4](/files/media-centre/Circle6.jpg)  
 To track relevant indicators of anticipated futures or implemented strategies. One such tool is Early Warning Systems, used to analyse risks, monitor and warn of potential critical threats, and build a response capability to these threats.
 
 ##### **Designing Strategies**
@@ -37,7 +37,7 @@ To track relevant indicators of anticipated futures or implemented strategies. O
 To craft strategies by taking into account insights into the future using tools such as War-Gaming, in which strategies and conflict simulations are explored within a fictional scenario game.
 
 ##### **Developing Possible Futures**
-![Image6](/files/media-centre/Circle6.jpg)  
+![Image6](files/media-centre/Circle4.jpg)  
 To create narratives and models to understand plausible future states. Tools include Scenario Planning, where stories of plausible future scenarios are used to challenge assumptions and trigger thinking about long-term strategies, and Backcasting, which starts with defining a desired or feared future, and then working backwards to identify the policies or programmes that will connect the present to the future.
 
 ### **Futures Conversations**
