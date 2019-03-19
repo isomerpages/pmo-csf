@@ -37,7 +37,7 @@ To track relevant indicators of anticipated futures or implemented strategies. O
 To craft strategies by taking into account insights into the future using tools such as War-Gaming, in which strategies and conflict simulations are explored within a fictional scenario game.
 
 ##### **Developing Possible Futures**
-![Image6](files/media-centre/Circle4.jpg)  
+![Image6](/files/media-centre/Circle4.jpg)  
 To create narratives and models to understand plausible future states. Tools include Scenario Planning, where stories of plausible future scenarios are used to challenge assumptions and trigger thinking about long-term strategies, and Backcasting, which starts with defining a desired or feared future, and then working backwards to identify the policies or programmes that will connect the present to the future.
 
 ### **Futures Conversations**
