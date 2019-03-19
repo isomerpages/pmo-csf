@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 permalink: /our-work/Future-craft/ 
-title: Futurecraft
-breadcrumb: Futurecraft
+title: FutureCraft
+breadcrumb: FutureCraft
 collection_name: our-work
 ---
 
