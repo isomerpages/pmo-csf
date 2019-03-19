@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Internship Programme
-permalink: /Internship-programme/
+permalink: /Internship-Programme/
 breadcrumb: Internship Programme
 ---
 
