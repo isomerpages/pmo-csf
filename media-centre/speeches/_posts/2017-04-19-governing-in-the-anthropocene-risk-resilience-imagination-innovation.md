@@ -6,4 +6,4 @@ permalink: "/media-centre/speeches/governing-in-the-anthropocene-risk-resilience
 ---
 
 
-[Governing in the anthropocene risk resilience imagination innovation](https://lkyspp.nus.edu.sg/news-events/events/details/2016-17-ips-nathan-lectures-lecture-ii-(governing-in-the-anthropocene-risk-resilience-imagination-innovation))
+[Video: 2016/17 IPS-Nathan Lecture II](https://lkyspp.nus.edu.sg/news-events/events/details/2016-17-ips-nathan-lectures-lecture-ii-(governing-in-the-anthropocene-risk-resilience-imagination-innovation))

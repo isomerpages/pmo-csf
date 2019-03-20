@@ -5,4 +5,4 @@ date:   2016-01-25
 permalink: "/media-centre/speeches/theplanningconundrum/"
 ---
 
-[The Planning Conundrum](http://policyoptions.irpp.org/magazines/january-2016/theplanningconundrum/)
+[The Planning Conundrum, 25 Jan 2016](http://policyoptions.irpp.org/magazines/january-2016/theplanningconundrum/)

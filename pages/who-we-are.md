@@ -14,9 +14,9 @@ CSF’s vision is to build a strategically agile public service ready to manage 
 ### **Mission**
 
 CSF’s mission is to position the Singapore government to navigate emerging strategic challenges and harness potential opportunities by:
-* building capacities, mindsets, expertise and tools for strategic anticipation and risk management;
-* developing insights into future trends, discontinuities and strategic surprises; and
-* communicating insights to decision-makers for informed policy planning.
+1. building capacities, mindsets, expertise and tools for strategic anticipation and risk management;
+2. developing insights into future trends, discontinuities and strategic surprises; and
+3. communicating insights to decision-makers for informed policy planning.
 
 ### **A Short History of Futures Work in the Singapore Government**
 

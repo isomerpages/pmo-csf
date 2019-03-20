@@ -6,4 +6,4 @@ permalink: "/media-centre/speeches/the-future-governance-unintended-consequences
 ---
 
 
-[The Future Governance unintended consequences and the redemption of hope](https://lkyspp.nus.edu.sg/news-events/events/details/2016-17-ips-nathan-lectures-lecture-iv-(the-future-governance-unintended-consequences-and-the-redemption-of-hope))
+[Video: 2016/17 IPS-Nathan Lecture IV](https://lkyspp.nus.edu.sg/news-events/events/details/2016-17-ips-nathan-lectures-lecture-iv-(the-future-governance-unintended-consequences-and-the-redemption-of-hope))

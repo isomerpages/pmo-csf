@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/isomerpages/isomerpages-csf#readme",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.2.6"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.3.0"
   }
 }

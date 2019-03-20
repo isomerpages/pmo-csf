@@ -5,4 +5,4 @@ date:   2016-05-02
 permalink: "/media-centre/speeches/complexities-of-time-conference/epsc-newsletter-2-foresight-matters_en"
 ---
 
-[EPSC newsletter 2 foresight matters](https://ec.europa.eu/epsc/file/epsc-newsletter-2-foresight-matters_en)
+[EPSC Newsletter Issue 2 May 2016](https://ec.europa.eu/epsc/file/epsc-newsletter-2-foresight-matters_en)

@@ -5,6 +5,8 @@ permalink: /Internship-Programme/
 breadcrumb: Internship Programme
 ---
 
+
+
 #### **Internship Programme**
 
 CSF is constantly on the look-out for high-calibre and skilled interns to join our research efforts. 
@@ -19,7 +21,7 @@ Calls for internship applications are listed below:
 
 ---  
 
-
+Listen to our former interns on their experience with us, in their own words:
 
 **Ming Kit on who should apply to CSF**   
 
@@ -52,4 +54,4 @@ For more information on eligibility and the application process, please refer to
 If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Kenneth_Poon@pmo.gov.sg](mailto:Kenneth_Poon@pmo.gov.sg)
 
 Please include in your email the subject header: 
-"CSF Internship Month-Month (Name) (School) (Degree Course)
+"CSF Internship Month-Month (Name) (School) (Degree Course)"
