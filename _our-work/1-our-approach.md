@@ -51,11 +51,11 @@ In a series of conversations chaired by Mr Peter Ho, Senior Advisor to CSF, Futu
 
 The Centre for Strategic Futures (CSF) also engages the futures community through platforms like:
 
-### **Strategic Futures Network** 
+#### **Strategic Futures Network** 
 
 A quarterly meeting which convenes Deputy Secretary-level officers in the Singapore government to discuss emerging trends that may have interesting implications for Singapore
 
-### **Sandbox**
+#### **Sandbox**
 
 A bi-monthly meeting which gathers staff level officers involves in futures and strategic planning work from various parts of the Singapore government to share on-going projects, evaluate ideas and examine areas for potential collaboration
 
