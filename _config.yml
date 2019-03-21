@@ -70,4 +70,5 @@ faq_url_external: false
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
+#Exclude build files from live site
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules]
