@@ -34,4 +34,4 @@ CSF has three internship periods:
 
 Applications take place in the preceding October, February and June respectively. If you are a year 2 to 4 university student and are interested to apply, please submit your CV and latest transcript to [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Kenneth_Poon@pmo.gov.sg](mailto:Kenneth_Poon@pmo.gov.sg) with subject header “CSF Internship Month-Month (Name)(School)(Degree Course)."
   
-For more information on the internship programme, please click [here.](https://isomer-csf-prod.netlify.com/internship-programme/)
+For more information on the internship programme, please click [here.](/internship-programme/)
