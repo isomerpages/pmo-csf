@@ -26,13 +26,17 @@ key-highlights:
     description: Programmes for citizens, businesses and government agencies
     url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
     external: true
-#   - title: Highlight B
-#     description: Important highlight B is equally important
-#     url: https://yahoo.com
+# Key Highlights
+key-highlights:
+#   - title: Lates Blog Post
+#     description: More Than Human Or Merely Human?
+#     url: https://medium.com/@pmo_csf/more-than-human-or-merely-human-427148fe43b4
 #     external: true
-#   - title: Page A
-#     description: Page A is important too
-#     url: /page-A/
+# Key Highlights
+key-highlights:
+#   - title: Upcoming Course @CSC
+#     description: FutureCraft 101 slated for Aug 2019
+#     url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?ePID=43csqlr77lrpi9jsc776fjamhw
 #   - title: Dropdown A Content C
 #     description: Dropdown A Content C is v important
 #     url: /dropdown-A/content-C/
