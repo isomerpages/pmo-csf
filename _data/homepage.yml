@@ -20,10 +20,12 @@ hero-subtitle: Building a strategically agile public service ready to manage a c
 hero-banner: /images/CSFBanner.jpg
 
 # key-highlights:
-#   - title: Highlight A
-#     description: Important highlight A is important
-#     url: https://google.com
-#     external: true
+# Key Highlights
+key-highlights:
+  - title: This is an announcement banner for testing purposes
+    description: Programmes for citizens, businesses and government agencies
+    url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
+    external: true
 #   - title: Highlight B
 #     description: Important highlight B is equally important
 #     url: https://yahoo.com
