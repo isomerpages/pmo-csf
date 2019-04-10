@@ -42,10 +42,10 @@ button:
   - text: Read More
     url: /who-we-are/
 
-# Resources Section
-#resources-title: Media Centre
-#resources-subtitle: Latest News
-#resources-more-button: More Media
-#resources-more-button-url: media-centre/
+ Resources Section
+resources-title: Media Centre
+resources-subtitle: Latest News
+resources-more-button: More Media
+resources-more-button-url: media-centre/
 
 show-reach: true
