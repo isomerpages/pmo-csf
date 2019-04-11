@@ -42,7 +42,7 @@ button:
   - text: Read More
     url: /who-we-are/
 
- Resources Section
+# Resources Section
 resources-title: Media Centre
 resources-subtitle: Latest News
 resources-more-button: More Media
