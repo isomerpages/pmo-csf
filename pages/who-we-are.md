@@ -62,4 +62,4 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 Chor Pharn has extensive public service experience helming strategic and business development roles. In his current post as Principal Strategist, he supports and advises on CSF's foresight research agenda, and translation into strategy at various government platforms. He has also served in the Ministry of Trade and Industry, overseeing strategic foresight and futures thinking to support economic policy analysis, and in a business development role at the China office of the Infocomm Development Authority of Singapore. Chor Pharn has a Masters of Electrical Engineering from Cornell University.
 
-
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />
