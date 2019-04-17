@@ -20,17 +20,19 @@ hero-subtitle: Building a strategically agile public service ready to manage a c
 hero-banner: /images/CSFBanner.jpg
 
 # key-highlights:
-#   - title: Highlight A
-#     description: Important highlight A is important
-#     url: https://google.com
-#     external: true
-#   - title: Highlight B
-#     description: Important highlight B is equally important
-#     url: https://yahoo.com
-#     external: true
-#   - title: Page A
-#     description: Page A is important too
-#     url: /page-A/
+# Key Highlights
+key-highlights:
+  - title: Upcoming Course @CSC
+    description: FutureCraft 101 & 102 in May 2019
+    url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=43csqlr77lrpi9jsc776fjamhw
+    external: true
+  - title: Latest Blog Post
+    description: Navigating Complexity and Uncertainty With Foresight-Infused Risk Management, By Manoj Harjani 
+    url: https://medium.com/@pmo_csf/navigating-complexity-and-uncertainty-with-foresight-infused-risk-management-f706ffb5fa67
+    external: true
+  - title: Foresight Conference 
+    description: 25 & 26 July 2019
+   
 #   - title: Dropdown A Content C
 #     description: Dropdown A Content C is v important
 #     url: /dropdown-A/content-C/
