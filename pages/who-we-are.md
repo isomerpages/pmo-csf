@@ -63,3 +63,11 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 Chor Pharn has extensive public service experience helming strategic and business development roles. In his current post as Principal Strategist, he supports and advises on CSF's foresight research agenda, and translation into strategy at various government platforms. He has also served in the Ministry of Trade and Industry, overseeing strategic foresight and futures thinking to support economic policy analysis, and in a business development role at the China office of the Infocomm Development Authority of Singapore. Chor Pharn has a Masters of Electrical Engineering from Cornell University.
 
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />
+
+#### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
+
+Peter Ho is the Senior Advisor to the Centre for Strategic Futures, a Senior Fellow in the Civil Service College, and a Visiting Fellow at the Lee Kuan Yew School of Public Policy.
+
+Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Chairman of the Social Science Research Council (SSRC), Chairman of the Singapore Centre on Environmental Life Sciences Engineering (SCELSE), Chairman of the National Supercomputing Centre (NSCC) Steering Committee, and Chairman of the Campus for Research Excellence and Technological Enterprise (CREATE) Governing Council. He is a member of the Board of Trustees of the National University of Singapore (NUS), and a board member of the National Research Foundation (NRF), a member of the Board of Governors of the S Rajaratnam School of International Studies (RSIS), and of the Lee Kuan Yew School of Public Policy (LKYSPP).
+
+When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
