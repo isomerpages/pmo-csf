@@ -82,13 +82,14 @@ Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She prev
 
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />
 
-### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
+#### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
 Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
 
 
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />
 
-### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
+#### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
 Chor Pharn has extensive public service experience helming strategic and business development roles. In his current post as Principal Strategist, he supports and advises on CSF's foresight research agenda, and translation into strategy at various government platforms. He has also served in the Ministry of Trade and Industry, overseeing strategic foresight and futures thinking to support economic policy analysis, and in a business development role at the China office of the Infocomm Development Authority of Singapore. Chor Pharn has a Masters of Electrical Engineering from Cornell University.
+
