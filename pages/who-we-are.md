@@ -87,7 +87,7 @@ Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She prev
 Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 200px; max-height: auto;" alt="Alt text here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="width: 100%; height: auto;" alt="Alt text here" />
 
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
