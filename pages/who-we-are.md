@@ -73,7 +73,7 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 200px; max-height: 300px;" alt="Insert Text Here" />  
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 150px; max-height: 225px;" alt="Insert Text Here" />  
 
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
