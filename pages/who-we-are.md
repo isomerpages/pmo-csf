@@ -73,14 +73,14 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />  
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 200px; max-height: 300px;" alt="Insert Text Here" />  
 
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
 Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She previously served at the Ministry of Trade and Industry, where she worked on launching Singapore's third government-to-government project with China. Pei Shan is an alumna of the former Strategic Policy Office (the forerunner to the CSF), where she worked on foresight and whole-of-government strategy. She started her career in the Ministry of Defence covering regional politics, and subsequently human resource strategy. Pei Shan read Philosophy, Politics and Economics at the University of Oxford. She also has a Masters in Political Science from Columbia University and a Masters in Public Policy from Peking University.  
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 200px; max-height: 300px;" alt="Alt text here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 200px; max-height: 300px;" alt="Insert Text Here" />
 
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
