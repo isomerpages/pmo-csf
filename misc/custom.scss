@@ -382,7 +382,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 //Image Resizing CSS for images
 .image-resize{
-	style="width: 100%;
+	width: 100%;
 	height: auto;
-	position:relative;"
+	position:relative;
 }
