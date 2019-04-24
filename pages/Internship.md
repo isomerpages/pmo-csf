@@ -57,4 +57,4 @@ Please include in your email the subject header:
 "CSF Internship Month-Month (Name) (School) (Degree Course)"
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/CSFBanner.jpg" style="max-width: 180px; max-height: 270px;" alt="Alt text here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/CSFBanner.jpg" style="max-width: 280px; max-height: 270px;" alt="Alt text here" />
