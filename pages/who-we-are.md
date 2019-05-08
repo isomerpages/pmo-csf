@@ -28,9 +28,10 @@ More recently, various Government agencies have recognised the value of foresigh
 
 On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister's Office, which was set up to focus on whole-of-government strategic planning and prioritisation, whole-of-government coordination and development and to incubate and catalyse new capabilities in the Singapore Public Service. 
 
+----
+
 ### **Our Leadership Team**
 
-----
 
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Alt text here" />
 
