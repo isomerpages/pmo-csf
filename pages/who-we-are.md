@@ -61,7 +61,7 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Mr Lee Chor Pharn from CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LC" style="max-width: 180px; max-height: 270px;" alt="Mr Lee Chor Pharn from CSF" />
 
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
