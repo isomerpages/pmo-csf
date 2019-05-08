@@ -33,7 +33,7 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 ### **Our Leadership Team**
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Alt text here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Mr Peter Ho from CSF" />
 
 #### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
 
