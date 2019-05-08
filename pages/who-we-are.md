@@ -45,7 +45,7 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/L" style="max-width: 180px; max-height: 270px;" alt="Ms Lim Pei Shan from CSF" />  
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Ms Lim Pei Shan from CSF" />  
 
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
