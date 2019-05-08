@@ -45,7 +45,7 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Insert Text Here" />  
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Ms Lim Pei Shan from CSF" />  
 
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
@@ -53,7 +53,7 @@ Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She prev
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Insert Text Here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Ms Liana Tang from CSF" />
 
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
@@ -61,7 +61,7 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Alt text here" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Mr Lee Chor Pharn from CSF" />
 
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
