@@ -31,6 +31,8 @@ safe: false
 collections:
   our-work:
     output: true
+  foresight-conference:
+    output: true
 
 plugins:
   - jekyll-feed
