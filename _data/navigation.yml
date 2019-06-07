@@ -26,6 +26,11 @@
     url: /media-centre/speeches/   
 - title: Foresight Conference
   url: /foresight-conference/
+  sub-links:
+  - title: 2019
+    url: /foresight-conference/2019/
+  - title: 2017
+    url: /foresight-conference/2017/
 - title: Contact Us
   url: /contact-us/
   sub-links:
