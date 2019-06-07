@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /foresight-conference/2019/ 
+permalink: /foresight-conference/ThousandNineteen/ 
 title: Foresight Conference 2019
 breadcrumb: 2019
 collection_name: foresight-conference
