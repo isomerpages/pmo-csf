@@ -33,7 +33,7 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 ### **Our Leadership Team**
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Mr Peter Ho from CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Peter Ho CSF" />
 
 #### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
 
@@ -45,7 +45,7 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Ms Lim Pei Shan from CSF" />  
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Lim Pei Shan CSF" />  
 
 #### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
 
@@ -53,7 +53,7 @@ Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She prev
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Ms Liana Tang from CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
 
@@ -61,7 +61,7 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Mr Lee Chor Pharn from CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF" />
 
 #### **Mr LEE Chor Pharn,** *Principal Strategist, Centre for Strategic Futures*
 
