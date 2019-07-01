@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revealed: Singapore’s strategic secrets for staying ahead, GovInsider, 28 Jun 2019"
+title: "Revealed: Singapore’s Strategic Secrets for Staying Ahead, GovInsider, 28 Jun 2019"
 date:   2019-06-28
 permalink: "/media-centre/speeches/revealed-singapores-strategic-secrets"
 ---
