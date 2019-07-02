@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Foresight"
-date:   2017-06-01
+date:   2019-07-01
 permalink: "/media-centre/publications/Foresight-Series"
 ---
 
