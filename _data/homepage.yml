@@ -22,15 +22,15 @@ hero-banner: /images/CSFBanner.jpg
 # key-highlights:
 # Key Highlights
 key-highlights:
-  - title: Upcoming Course @CSC
-    description: FutureCraft 101 & 102 in May 2019
-    url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=43csqlr77lrpi9jsc776fjamhw
+  - title: Upcoming Course @ CSC
+    description: FutureCraft 201 in Aug 2019
+    url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=dspjgw7irr13me14f3qejc26li
     external: true
-  - title: Latest Blog Post
-    description: Navigating Complexity and Uncertainty With Foresight-Infused Risk Management, By Manoj Harjani 
-    url: https://medium.com/@pmo_csf/navigating-complexity-and-uncertainty-with-foresight-infused-risk-management-f706ffb5fa67
-    external: true
-  - title: Foresight Conference 
+  - title: Foresight Publication 2019
+    description: CSF's reflections and experiences in foresight methods and major highlights from our work
+    url: https://www.csf.gov.sg/files/media-centre/publications/CSF_Foresight_2019.pdf
+    external: false
+  - title: Foresight Conference- Society 4.0
     description: 25 & 26 July 2019
    
 #   - title: Dropdown A Content C
