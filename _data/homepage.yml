@@ -23,16 +23,16 @@ hero-banner: /images/CSFBanner.jpg
 # Key Highlights
 key-highlights:
   - title: Upcoming Course @ CSC
-    description: FutureCraft 201 in Aug 2019
-    url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=dspjgw7irr13me14f3qejc26li
+    description: FutureCraft 101 & 102 in Nov 2019
+    url: https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=43csqlr77lrpi9jsc776fjamhw
     external: true
   - title: Foresight Publication 2019 (10MB)
     description: CSF's reflections and experiences in foresight methods and major highlights from our work
     url: https://www.csf.gov.sg/files/media-centre/publications/CSF_Foresight_2019.pdf
     external: false
-  - title: Foresight Conference- Society 4.0
-    description: 25 & 26 July 2019
-    url: https://foresight2019.wixsite.com/fc2019
+  - title: Say Hello to the New Work Order
+    description: CSF Blog Post
+    url: https://medium.com/@pmo_csf/say-hello-to-the-new-work-order-7062a12d67ad
     external: true
    
 #   - title: Dropdown A Content C
