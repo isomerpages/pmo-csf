@@ -7,7 +7,7 @@ collection_name: foresight-conference
 ---
 ### **Past Foresight Conference Reports**
 
-CSF's Foresight Conference is held every two year. The previous conference reports are available here:
+CSF's Foresight Conference is held every two years. The previous conference reports are available here:
 
 
 [Foresight Conference 2015 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-2015-proceedings5e5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
