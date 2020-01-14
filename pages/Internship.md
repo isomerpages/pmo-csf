@@ -15,9 +15,9 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| Jan – Apr  | Sep 2018  | 14 Oct 2018  |
-| May – Aug  | Jan 2019  | 15 Feb 2019  |
-| Sep – Dec  | May 2019  | 15 Jun 2019  |
+| Jan – Apr  | Oct 2019  | 25 Oct 2019  |
+| May – Aug  | Feb 2020  | 14 Feb 2020  |
+| Sep – Dec  | May 2020  | 15 May 2020  |
 
 ---  
 
