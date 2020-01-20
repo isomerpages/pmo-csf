@@ -49,7 +49,7 @@ Listen to our former interns on their experience with us, in their own words:
 </div>
 ---
 
-For more information on eligibility and the application process, please refer to the [brochure (1.1MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/internship-programme-2019-brochure.pdf). 
+For more information on eligibility and the application process, please refer to the [brochure (1.1MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Internship-Programme-2020-Brochure.pdf). 
 
 If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Gurubaran_Subramaniam@pmo.gov.sg](mailto:Gurubaran_Subramaniam@pmo.gov.sg)
 
