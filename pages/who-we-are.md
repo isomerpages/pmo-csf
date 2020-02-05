@@ -45,14 +45,6 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LPS" style="max-width: 180px; max-height: 270px;" alt="Lim Pei Shan CSF" />  
-
-#### **Ms LIM Pei Shan,** *Head, Centre for Strategic Futures*
-
-Pei Shan joined the Centre for Strategic Futures (CSF) in January 2018. She previously served at the Ministry of Trade and Industry, where she worked on launching Singapore's third government-to-government project with China. Pei Shan is an alumna of the former Strategic Policy Office (the forerunner to the CSF), where she worked on foresight and whole-of-government strategy. She started her career in the Ministry of Defence covering regional politics, and subsequently human resource strategy. Pei Shan read Philosophy, Politics and Economics at the University of Oxford. She also has a Masters in Political Science from Columbia University and a Masters in Public Policy from Peking University.  
-
-----
-
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
