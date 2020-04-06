@@ -44,7 +44,18 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 ----
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
 
+#### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
+#### *Deputy Director, Strategic Futures, Defence Policy Office, Ministry of Defence*
+
+Jeanette is the Head of the Centre for Strategic Futures, and concurrently Deputy Director, Strategic Futures at the Defence Policy Office in the Ministry of Defence. 
+
+Jeanette joined the civil service in 2005, starting her career at the Defence Policy Office, MINDEF, where she worked on Singapore’s defence relations with international partners. In 2009, she joined the Strategic Policy Office, where she became one of the founding members of the Centre for Strategic Futures (CSF). During the early years of the CSF, Jeanette was involved in expanding the centre’s network of exciting minds and interesting personalities, growing futures capabilities across the public service, as well as organising and curating the first in an ongoing series of Foresight Conferences (now an integral part of Singapore’s Foresight Week). In 2018, she returned to the Ministry of Defence to help build up foresight capability there. During her stint, Jeanette drove research into emerging geopolitical trends and opportunities, and developed a research agenda and process for the new team. 
+
+Jeanette is a political scientist and economist by training, having graduated with honours from the University of Chicago in 2005. She continues to stay current in the field as an alumna of the Munich Young Leaders, International Institute of Strategic Studies’ Southeast Asian Young Leaders Program and the Young Strategists Forum. She is married with two young children. In whatever spare time the children leave her with, she nurses a dangerous addiction to caffeine and the written word. 
+
+----
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
 #### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
