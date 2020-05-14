@@ -47,7 +47,6 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
 
 #### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
-#### *Deputy Director, Strategic Futures, Defence Policy Office, Ministry of Defence*
 
 Jeanette is the Head of the Centre for Strategic Futures, and concurrently Deputy Director, Strategic Futures at the Defence Policy Office in the Ministry of Defence. 
 
@@ -56,9 +55,17 @@ Jeanette joined the civil service in 2005, starting her career at the Defence Po
 Jeanette is a political scientist and economist by training, having graduated with honours from the University of Chicago in 2005. She continues to stay current in the field as an alumna of the Munich Young Leaders, International Institute of Strategic Studies’ Southeast Asian Young Leaders Program and the Young Strategists Forum. She is married with two young children. In whatever spare time the children leave her with, she nurses a dangerous addiction to caffeine and the written word. 
 
 ----
+
+
+#### **Ms Seema Gail PARKASH,** *Deputy Director, Centre for Strategic Futures*
+
+Seema has had a wide-ranging career in public policy and research.  She was previously with the Singapore Ministry of Foreign Affairs (MFA), where she served at the United Nations in New York; in the International Organisations and South Asia Directorates; and in the Arctic Affairs Working Group that spearheaded Singapore’s successful bid for permanent observership at the Arctic Council.  Prior to MFA, Seema spent several years at the Duke Global Health Institute and the Sanford School of Public Policy at Duke University in the United States, managing field research in international development policy issues, particularly global health disparities in Africa and Asia.  Seema holds a Bachelor of Arts in Political Science with honours from Duke University.  She also holds a graduate certificate in Public Health from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
+
+
+----
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
-#### **Ms Liana TANG,** *Deputy Head, Centre for Strategic Futures*
+#### **Ms Liana TANG,** *Deputy Director (Special Projects), Centre for Strategic Futures*
 
 Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
 
