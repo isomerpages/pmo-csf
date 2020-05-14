@@ -55,12 +55,11 @@ Jeanette joined the civil service in 2005, starting her career at the Defence Po
 Jeanette is a political scientist and economist by training, having graduated with honours from the University of Chicago in 2005. She continues to stay current in the field as an alumna of the Munich Young Leaders, International Institute of Strategic Studies’ Southeast Asian Young Leaders Program and the Young Strategists Forum. She is married with two young children. In whatever spare time the children leave her with, she nurses a dangerous addiction to caffeine and the written word. 
 
 ----
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/SGP.jpg" style="max-width: 180px; max-height: 270px;" alt="Seema Gail Parkash CSF" />
 
-
-#### **Ms Seema Gail PARKASH,** *Deputy Director, Centre for Strategic Futures*
+#### **Ms Seema Gail PARKASH,** *Deputy Head, Centre for Strategic Futures*
 
 Seema has had a wide-ranging career in public policy and research.  She was previously with the Singapore Ministry of Foreign Affairs (MFA), where she served at the United Nations in New York; in the International Organisations and South Asia Directorates; and in the Arctic Affairs Working Group that spearheaded Singapore’s successful bid for permanent observership at the Arctic Council.  Prior to MFA, Seema spent several years at the Duke Global Health Institute and the Sanford School of Public Policy at Duke University in the United States, managing field research in international development policy issues, particularly global health disparities in Africa and Asia.  Seema holds a Bachelor of Arts in Political Science with honours from Duke University.  She also holds a graduate certificate in Public Health from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
-
 
 ----
 <img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
