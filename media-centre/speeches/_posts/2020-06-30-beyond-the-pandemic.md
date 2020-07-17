@@ -6,7 +6,7 @@ permalink: "/media-centre/speeches/2020-06-30-beyond-the-pandemic/"
 ---
 
 <div class="bp-youtube">
-	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hXel-FgwS7A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hXel-FgwS7A&t=3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 #### Beyond the pandemic: Global foresight perspectives
