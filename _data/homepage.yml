@@ -22,10 +22,10 @@ hero-banner: /images/CSFBanner.jpg
 # key-highlights:
 # Key Highlights
 key-highlights:
-  - title: "Beyond the Pandemic: Global Foresight Perspectives" 
-    description: European Parliamentary Research Service Interview
-    url: https://www.csf.gov.sg/media-centre/speeches/2020-06-30-beyond-the-pandemic/
-    external: false
+  - title: "Four Lessons from History" 
+    description: CSF Blog Post
+    url: https://medium.com/@pmo_csf/four-lessons-from-history-f926532141d3
+    external: true
   - title: "How COVID-19 is Reshaping the World"
     description: CSF Blog Post
     url: https://medium.com/@pmo_csf/how-covid-19-is-reshaping-the-world-3a156eba49f0
