@@ -48,7 +48,7 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 
 #### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
 
-Jeanette is the Head of the Centre for Strategic Futures, and concurrently Deputy Director, Strategic Futures at the Defence Policy Office in the Ministry of Defence. 
+Jeanette is the Head of the Centre for Strategic Futures. 
 
 Jeanette joined the civil service in 2005, starting her career at the Defence Policy Office, MINDEF, where she worked on Singapore’s defence relations with international partners. In 2009, she joined the Strategic Policy Office, where she became one of the founding members of the Centre for Strategic Futures (CSF). During the early years of the CSF, Jeanette was involved in expanding the centre’s network of exciting minds and interesting personalities, growing futures capabilities across the public service, as well as organising and curating the first in an ongoing series of Foresight Conferences (now an integral part of Singapore’s Foresight Week). In 2018, she returned to the Ministry of Defence to help build up foresight capability there. During her stint, Jeanette drove research into emerging geopolitical trends and opportunities, and developed a research agenda and process for the new team. 
 
