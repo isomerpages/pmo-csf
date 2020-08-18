@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategic foresight: How policymakers can make sense of a turbulent world, Apolitical, 17 Aug 2020"
+title: "Strategic Foresight: How Policymakers Can Make Sense of a Turbulent World, Apolitical, 17 Aug 2020"
 date:   2020-08-17
 permalink: "/media-centre/speeches/strategic-foresight-how-policy-makers"
 ---
