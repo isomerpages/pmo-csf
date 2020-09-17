@@ -15,17 +15,17 @@ One of the key roles of CSF is to share the SP+ toolkit across Government. A mai
 
 This introductory course provides  a “taster” of the various aspects of foresight work in Government, and exposes budding futurists to a range of basic tools. 
 
-View more details on FutureCraft 101 [here.](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?ePID=43csqlr77lrpi9jsc776fjamhw){:target="_blank"}
+View more details on FutureCraft 101 [here.](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=rq7qk71wrpw5rqcinh4an3sire){:target="_blank"}
 
 #### **FutureCraft 102: SP+ Tools and Facilitation**
 
 FutureCraft 102 focuses on various tools from our SP+ suite. Participants discuss possible trajectories of a given public policy issue with the help of these tools, and also learn how to facilitate conversations using these tools.
 
- View more details on FutureCraft 102 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=8hsjspio5g699oc2ko6uvrn7vo){:target="_blank"}
+ View more details on FutureCraft 102 [here.](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=wa5ownde7m8q592i7ilsdn4he1){:target="_blank"}
 
 #### **FutureCraft 201: Scenario Planning**
 
 FutureCraft 201 is centred on the scenario planning methodology, from defining the focal concern and driving force analysis to constructing scenario frameworks, scenario-writing and translating scenarios to strategies.
 
-View more details on FutureCraft 201 [here.](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=dspjgw7irr13me14f3qejc26li){:target="_blank"}
+Please note that FutureCraft 201 is on hiatus in 2020.
 
