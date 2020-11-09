@@ -22,10 +22,10 @@ hero-banner: /images/CSFBanner.jpg
 # key-highlights:
 # Key Highlights
 key-highlights:
-  - title: "Four Lessons from History" 
-    description: CSF Blog Post
-    url: https://medium.com/@pmo_csf/four-lessons-from-history-f926532141d3
-    external: true
+  - title: "COVID-19 Shifts Infographic" 
+    description: 
+    url: https://www.csf.gov.sg/media-centre/publications/csf-covid-19-shifts-infographic
+    external: false
   - title: "Strategic Foresight: How Policymakers Can Make Sense of a Turbulent World"
     description: Apolitical, 17 Aug 2020
     url: https://apolitical.co/en/solution_article/strategic-foresight-making-sense-of-a-turbulent-world
