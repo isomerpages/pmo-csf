@@ -22,10 +22,10 @@ hero-banner: /images/CSFBanner.jpg
 # key-highlights:
 # Key Highlights
 key-highlights:
-  - title: "COVID-19 Shifts Infographic" 
+  - title: "Relationships in ‘Perspex’tive: Connections in the time of Corona" 
     description: 
-    url: https://www.csf.gov.sg/media-centre/publications/csf-covid-19-shifts-infographic
-    external: false
+    url: https://pmo-csf.medium.com/relationships-in-perspextive-connections-in-the-time-of-corona-3c4cb7e0da5a
+    external: true
   - title: "Sustainability and Resilience in the Wake of the Pandemic"
     description: CSF Blog Post
     url: https://pmo-csf.medium.com/sustainability-and-resilience-in-the-wake-of-the-pandemic-696563fb057b
