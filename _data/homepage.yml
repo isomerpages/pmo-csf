@@ -23,16 +23,16 @@ hero-banner: /images/CSFBanner.jpg
 # Key Highlights
 key-highlights:
   - title: "Relationships in ‘Perspex’tive: Connections in the time of Corona" 
-    description: 
+    description: CSF Blog Post
     url: https://pmo-csf.medium.com/relationships-in-perspextive-connections-in-the-time-of-corona-3c4cb7e0da5a
     external: true
   - title: "Sustainability and Resilience in the Wake of the Pandemic"
     description: CSF Blog Post
     url: https://pmo-csf.medium.com/sustainability-and-resilience-in-the-wake-of-the-pandemic-696563fb057b
     external: true
-  - title: "Bio-surveillance in the Era of COVID-19"
+  - title: “‘Agile’ Manufacturing and Frugal Innovation: Resilience in Light of Supply Chain Disruptions”
     description: CSF Blog Post
-    url: https://medium.com/@pmo_csf/bio-surveillance-in-the-era-of-covid-19-5f839b10ba39
+    url: https://pmo-csf.medium.com/agile-manufacturing-frugal-innovation-resilience-in-light-of-supply-chain-disruptions-deedc2a78c02
     external: true
    
 #   - title: Dropdown A Content C
