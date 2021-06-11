@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-permalink: /our-work/our-approach/ 
-title: Our Approach
-breadcrumb: Our Approach
-collection_name: our-work
+permalink: /our-work/our-approach/
+title: 'Our Approach'
+breadcrumb: 'Our Approach'
+
 ---
+
 
 ### **Our Approach**
 
