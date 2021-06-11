@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Internship Programme
+title: 'Internship Programme'
 permalink: /Internship-Programme/
-breadcrumb: Internship Programme
+breadcrumb: 'Internship Programme'
+
 ---
+
 
 
 
