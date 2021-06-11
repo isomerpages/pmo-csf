@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content 
-permalink: /foresight-conference/past/ 
-title: Past Foresight Conferences 
+permalink: /foresight-conference/past/
+title: 'Past Foresight Conferences'
 breadcrumb: Past
-collection_name: foresight-conference
+
 ---
+
 ### **Past Foresight Conference Reports**
 
 CSF's Foresight Conference is held every two years. The previous conference reports are available here:
