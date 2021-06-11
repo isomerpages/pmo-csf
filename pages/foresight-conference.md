@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Foresight Conference
+title: 'Foresight Conference'
 permalink: /foresight-conference/
-breadcrumb: Foresight Conference
+breadcrumb: 'Foresight Conference'
+
 ---
+
 
 
 
