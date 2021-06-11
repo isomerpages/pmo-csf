@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "ESI Project 2.0 "
-date:   2013-08-01
-permalink: "/media-centre/publications/future-deck-cards"
+title: 'ESI Project 2.0 '
+date: 2013-08-01T00:00:00.000Z
+permalink: /media-centre/publications/future-deck-cards
+
 ---
+
 
 
 #### **ESI Project 2.0**
