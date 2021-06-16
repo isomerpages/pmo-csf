@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "COVID-19 Shifts Infographic"
-date:   2020-11-09
-permalink: "/media-centre/publications/CSF-COVID-19-Shifts-Infographic"
+title: 'COVID-19 Shifts Infographic'
+date: 2020-11-09T00:00:00.000Z
+permalink: /media-centre/publications/CSF-COVID-19-Shifts-Infographic
+
 ---
+
 
 #### **COVID-19 Shifts Infographic**
 

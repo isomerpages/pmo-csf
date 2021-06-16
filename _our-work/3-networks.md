@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-permalink: /our-work/networks/ 
+permalink: /our-work/networks/
 title: Networks
 breadcrumb: Networks
-collection_name: our-work
+
 ---
+
 
 ### **Overview**
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Foresight"
-date:   2019-07-01
-permalink: "/media-centre/publications/Foresight-Series"
+title: Foresight
+date: 2019-07-01T00:00:00.000Z
+permalink: /media-centre/publications/Foresight-Series
+
 ---
+
 
 #### **Foresight (Series)**
 

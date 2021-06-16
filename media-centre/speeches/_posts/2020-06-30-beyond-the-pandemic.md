@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Beyond the Pandemic: Global Foresight Perspectives, 30 Jun 2020, European Parliamentary Research Service"
-date:   2020-06-30
-permalink: "/media-centre/speeches/2020-06-30-beyond-the-pandemic/"
+title: 'Beyond the Pandemic: Global Foresight Perspectives, 30 Jun 2020, European Parliamentary Research Service'
+date: 2020-06-30T00:00:00.000Z
+permalink: /media-centre/speeches/2020-06-30-beyond-the-pandemic/
+
 ---
+
 
 #### Beyond the pandemic: Global foresight perspectives
 
