@@ -10,10 +10,10 @@ links:
       collection: foresight-conference
     - title: 'Contact Us'
       false_collection: true
-        sublinks: 
-          - title: Contact Information
-            url: /contact-us/
-          - title: Internship Programme
-            url: /Internship-Programme/
+      sublinks: 
+        - title: Contact Information
+          url: /contact-us/
+        - title: Internship Programme
+          url: /Internship-Programme/
     - title: Blog
       url: /blog-here/
