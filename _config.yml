@@ -37,3 +37,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+colors:
+  primary-color: '#1D1D1D'
+  secondary-color: '#A05A1B'
+  media-colors:
+    - title: media-color-one
+      color: '#B3466E'
+    - title: media-color-two
+      color: '#934710'
+    - title: media-color-three
+      color: '#01828E'
+    - title: media-color-four
+      color: '#49759A'
+    - title: media-color-five
+      color: '#00838f'
