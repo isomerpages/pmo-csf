@@ -34,7 +34,7 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 ### **Our Leadership Team**
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Peter Ho CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Peter Ho CSF" />
 
 #### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
 
@@ -45,7 +45,7 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 ----
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
 
 #### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
 
@@ -56,14 +56,14 @@ Jeanette joined the civil service in 2005, starting her career at the Defence Po
 Jeanette is a political scientist and economist by training, having graduated with honours from the University of Chicago in 2005. She continues to stay current in the field as an alumna of the Munich Young Leaders, International Institute of Strategic Studies’ Southeast Asian Young Leaders Program and the Young Strategists Forum. She is married with two young children. In whatever spare time the children leave her with, she nurses a dangerous addiction to caffeine and the written word. 
 
 ----
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/SGP.jpg" style="max-width: 180px; max-height: 270px;" alt="Seema Gail Parkash CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/SGP.jpg" style="max-width: 180px; max-height: 270px;" alt="Seema Gail Parkash CSF" />
 
 #### **Ms Seema Gail PARKASH,** *Deputy Head, Centre for Strategic Futures*
 
 Seema has had a wide-ranging career in public policy and research.  She was previously with the Singapore Ministry of Foreign Affairs (MFA), where she served at the United Nations in New York; in the International Organisations and South Asia Directorates; and in the Arctic Affairs Working Group that spearheaded Singapore’s successful bid for permanent observership at the Arctic Council.  Prior to MFA, Seema spent several years at the Duke Global Health Institute and the Sanford School of Public Policy at Duke University in the United States, managing field research in international development policy issues, particularly global health disparities in Africa and Asia.  Seema holds a Bachelor of Arts in Political Science with honours from Duke University.  She also holds a graduate certificate in Public Health from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
 
 ----
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/MLT" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/MLT.jpg" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
 #### **Ms Liana TANG,** *Deputy Director (Special Projects), Centre for Strategic Futures*
 
@@ -71,7 +71,7 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/LCP" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF" />
+<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/LCP.jpg" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF" />
 
 #### **Mr LEE Chor Pharn,** *Principal Foresight Analyst, Centre for Strategic Futures*
 
