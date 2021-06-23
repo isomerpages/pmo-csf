@@ -1,11 +1,8 @@
 ---
-title: 'Who We Are'
+title: Who We Are
 permalink: /who-we-are/
-breadcrumb: 'Who We Are'
-
+breadcrumb: Who We Are
 ---
-
-
 ### **Vision**
 
 CSF’s vision is to build a strategically agile public service ready to manage a complex and fast-changing environment.
@@ -34,7 +31,7 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 ### **Our Leadership Team**
 
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Peter Ho CSF" />
+<img src="/images/who-we-are/mr-peter-ho.png" style="max-width: 180px; max-height: 270px;" alt="Peter Ho CSF" />
 
 #### **Mr Peter HO,** *Senior Advisor, Centre for Strategic Futures*
 
@@ -45,7 +42,7 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security & Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 ----
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
+<img src="/images/who-we-are/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
 
 #### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
 
@@ -63,7 +60,7 @@ Jeanette is a political scientist and economist by training, having graduated wi
 Seema has had a wide-ranging career in public policy and research.  She was previously with the Singapore Ministry of Foreign Affairs (MFA), where she served at the United Nations in New York; in the International Organisations and South Asia Directorates; and in the Arctic Affairs Working Group that spearheaded Singapore’s successful bid for permanent observership at the Arctic Council.  Prior to MFA, Seema spent several years at the Duke Global Health Institute and the Sanford School of Public Policy at Duke University in the United States, managing field research in international development policy issues, particularly global health disparities in Africa and Asia.  Seema holds a Bachelor of Arts in Political Science with honours from Duke University.  She also holds a graduate certificate in Public Health from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
 
 ----
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/MLT.jpg" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
+<img src="/images/who-we-are/MLT.jpg" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
 
 #### **Ms Liana TANG,** *Deputy Director (Special Projects), Centre for Strategic Futures*
 
@@ -71,9 +68,8 @@ Liana has dabbled in many disciplines in her 11 years in Government, ranging str
 
 ----
 
-<img src="https://github.com/isomerpages/isomerpages-csf/raw/staging/images/who-we-are/LCP.jpg" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF" />
+<img src="/images/who-we-are/LCP.jpg" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF" />
 
 #### **Mr LEE Chor Pharn,** *Principal Foresight Analyst, Centre for Strategic Futures*
 
 Chor Pharn has extensive public service experience helming strategic and business development roles. In his current post as Principal Strategist, he supports and advises on CSF's foresight research agenda, and translation into strategy at various government platforms. He has also served in the Ministry of Trade and Industry, overseeing strategic foresight and futures thinking to support economic policy analysis, and in a business development role at the China office of the Infocomm Development Authority of Singapore. Chor Pharn has a Masters of Electrical Engineering from Cornell University.
-
