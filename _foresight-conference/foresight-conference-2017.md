@@ -1,11 +1,9 @@
 ---
-title: 'Foresight Conference'
-permalink: /foresight-conference/
-breadcrumb: 'Foresight Conference'
+permalink: /foresight-conference/2017/
+title: 'Foresight Conference 2017'
+breadcrumb: 2017
 
 ---
-
-
 
 
 ### **Foresight Conference 2017**
@@ -29,12 +27,6 @@ Participants included:
 The conference website can be found [here](https://stratfutures.wixsite.com/foresightconference){:target="_blank"}  
 
 
-[Foresight Conference 2017 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/csf-foresight-conference-2017-report.pdf){:target="_blank"}
+[Foresight Conference 2017 (4MB)](https://www.csf.gov.sg/files/media-centre/csf-foresight-conference-2017-report.pdf){:target="_blank"}
 
-[Foresight Conference 2015 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-2015-proceedings5e5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
-
-
-[Foresight Conference 2013 (2MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/psd-foresight-conference-20133d5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
-
-
-[Foresight Conference 2011 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}  
+ 

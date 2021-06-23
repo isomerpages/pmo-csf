@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 ### **Terms of Use**
 
 Thank you for visiting the Strategy Group, Prime Minister's Office Web Site. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.

@@ -1,0 +1,7 @@
+collections:
+  foresight-conference:
+    output: true
+    order:
+      - foresight-conference-2019.md
+      - foresight-conference-2017.md
+      - past-foresight-conferences.md

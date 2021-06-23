@@ -1,0 +1,7 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - our-approach.md
+      - networks.md
+      - futurecraft.md
