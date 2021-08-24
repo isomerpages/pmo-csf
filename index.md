@@ -16,9 +16,9 @@ sections:
         - title: "Promises & Perils: Emerging Forms of Collective Intelligence"
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/promises-and-perils-emerging-forms-of-collective-intelligence-cdd7291875e5
-        - title: Features of Effective Systemic Foresight in Governments Globally
-          description: Report by the School of International Futures
-          url: https://www.gov.uk/government/publications/features-of-effective-systemic-foresight-in-governments-globally
+        - title: Who Are the Lost Generation of COVID-19?
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/who-are-the-lost-generation-of-covid-19-5ea57e5e19ae
         - title: "Time Banks: Rethinking Value, Labour, and Community"
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/time-banks-rethinking-value-labour-and-community-c406ef24a68a
