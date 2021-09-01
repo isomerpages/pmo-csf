@@ -44,9 +44,9 @@ When he retired from the Singapore Administrative Service in 2010 after a career
 ----
 <img src="/images/who-we-are/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF" />
 
-#### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures*
+#### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures and  Director, Futures Directorate PMO Strategy Group*
 
-Jeanette is the Head of the Centre for Strategic Futures. 
+Jeanette is the Head of the Centre for Strategic Futures and Director of Futures at PMO Strategy Group. 
 
 Jeanette joined the civil service in 2005, starting her career at the Defence Policy Office, MINDEF, where she worked on Singapore’s defence relations with international partners. In 2009, she joined the Strategic Policy Office, where she became one of the founding members of the Centre for Strategic Futures (CSF). During the early years of the CSF, Jeanette was involved in expanding the centre’s network of exciting minds and interesting personalities, growing futures capabilities across the public service, as well as organising and curating the first in an ongoing series of Foresight Conferences (now an integral part of Singapore’s Foresight Week). In 2018, she returned to the Ministry of Defence to help build up foresight capability there. During her stint, Jeanette drove research into emerging geopolitical trends and opportunities, and developed a research agenda and process for the new team. 
 
@@ -58,13 +58,6 @@ Jeanette is a political scientist and economist by training, having graduated wi
 #### **Ms Seema Gail PARKASH,** *Deputy Head, Centre for Strategic Futures*
 
 Seema has had a wide-ranging career in public policy and research.  She was previously with the Singapore Ministry of Foreign Affairs (MFA), where she served at the United Nations in New York; in the International Organisations and South Asia Directorates; and in the Arctic Affairs Working Group that spearheaded Singapore’s successful bid for permanent observership at the Arctic Council.  Prior to MFA, Seema spent several years at the Duke Global Health Institute and the Sanford School of Public Policy at Duke University in the United States, managing field research in international development policy issues, particularly global health disparities in Africa and Asia.  Seema holds a Bachelor of Arts in Political Science with honours from Duke University.  She also holds a graduate certificate in Public Health from the Gillings School of Global Public Health at the University of North Carolina at Chapel Hill.
-
-----
-<img src="/images/who-we-are/MLT.jpg" style="max-width: 180px; max-height: 270px;" alt="Liana Tang CSF" />
-
-#### **Ms Liana TANG,** *Deputy Director (Special Projects), Centre for Strategic Futures*
-
-Liana has dabbled in many disciplines in her 11 years in Government, ranging strategic planning, project management, service development and public policy. Domains included libraries, archives, culture and heritage. Her varied experiences have enriched her views and practice of foresight. At the Centre for Strategic Futures, she leads futures communication and foresight community building efforts in the Singapore government. A biologist by training and Sci-Fi enthusiast, Liana is particularly interested in issues that straddle the nexus between science and society.
 
 ----
 
