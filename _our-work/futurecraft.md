@@ -23,4 +23,4 @@ FutureCraft 102 focuses on various tools from our SP+ suite. Participants discus
 
 FutureCraft 201 is centred on the scenario planning methodology, from defining the focal concern and driving force analysis to constructing scenario frameworks, scenario-writing and translating scenarios to strategies.
 
-View more details on FutureCraft 201 [here].(https://register.csc.gov.sg/registration?courseId=300187&classNum=2){:target="_blank"} 
+View more details on FutureCraft 201 [here.](https://register.csc.gov.sg/registration?courseId=300187&classNum=2){:target="_blank"}
