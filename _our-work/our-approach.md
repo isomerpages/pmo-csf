@@ -1,11 +1,8 @@
 ---
 permalink: /our-work/our-approach/
-title: 'Our Approach'
-breadcrumb: 'Our Approach'
-
+title: Our Approach
+breadcrumb: Our Approach
 ---
-
-
 ### **Our Approach**
 
 The Centre for Strategic Futures (CSF) has developed its own set of foresight tools, to go beyond Scenario Planning to deal with emergent or sudden and discontinuous trends. Called “Scenario Planning Plus” (SP+), it retains Scenario Planning as its core, but taps on a broader suite of tools more suitable for the analysis of weak signals, and thinking about black swans and wild cards.
@@ -62,6 +59,6 @@ A bi-monthly meeting which gathers staff level officers involves in futures and 
 In addition, CSF works closely with several partners, including:
 
 * RAHS Programme Office  
-* [Civil Service College](https://www.cscollege.gov.sg/Pages/Default.aspx)
+* [Civil Service College](https://www.csc.gov.sg/)
 * Ministry of Trade and Industry's Futures Group
 * Ministry of Manpower's Risk Management and Futures Group
