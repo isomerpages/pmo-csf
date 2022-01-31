@@ -19,9 +19,9 @@ sections:
         - title: Who Are the Lost Generation of COVID-19?
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/who-are-the-lost-generation-of-covid-19-5ea57e5e19ae
-        - title: "Time Banks: Rethinking Value, Labour, and Community"
+        - title: A World Reaching Inflection Point
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/time-banks-rethinking-value-labour-and-community-c406ef24a68a
+          url: https://pmo-csf.medium.com/a-world-reaching-inflection-point-9afdec2d1e00
   - resources:
       title: Latest News
       subtitle: Media Centre
