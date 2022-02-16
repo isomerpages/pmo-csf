@@ -45,7 +45,7 @@ Listen to our former interns on their experience with us, in their own words:
 
 For more information on eligibility and the application process, please refer to the [brochure (1.7MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Internship-Programme-Jan2022-Brochure.pdf). 
 
-If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Tse_Hao_Guang@pmo.gov.sg](mailto:Tse_Hao_Guang@pmo.gov.sg)
+If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Gurubaran_Subramaniam@pmo.gov.sg](mailto:Gurubaran_Subramaniam@pmo.gov.sg)
 
 Please include in your email the subject header: 
 "CSF Internship 2022 (Name) (University) (Degree Course)"
