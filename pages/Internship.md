@@ -11,7 +11,7 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| Jan – Apr 2022 | 22 Oct 2021  | 5 Nov 2021  |
+| May – Aug 2022 | 14 Feb 2021  | 28 Feb 2021  |
 
 ---  
 
