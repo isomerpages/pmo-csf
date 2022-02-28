@@ -13,9 +13,9 @@ sections:
       button: Read More
       url: /who-we-are/
       key_highlights:
-        - title: "Promises & Perils: Emerging Forms of Collective Intelligence"
+        - title: Learning For The Future
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/promises-and-perils-emerging-forms-of-collective-intelligence-cdd7291875e5
+          url: https://pmo-csf.medium.com/learning-for-the-future-4c960c009fb5
         - title: Who Are the Lost Generation of COVID-19?
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/who-are-the-lost-generation-of-covid-19-5ea57e5e19ae
