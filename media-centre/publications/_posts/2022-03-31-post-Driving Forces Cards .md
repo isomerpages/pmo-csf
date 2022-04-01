@@ -21,4 +21,4 @@ The lines between DFs are often arbitrary, and CSF has articulated five cross-DF
 [A World Reaching Inflection Point (1MB)](https://go.gov.sg/df2040themes){:target="_blank}
 
 Driving Forces Cards Archive:
-[Driving Forces 2035 Cards (2MB)](/files/media-centre/publications/df2035_cards.pdf){:target="_blank}
+[Driving Forces 2035 Cards (2MB)](files/media-centre/publications/DF2035_Cards.pdf){:target="_blank}
