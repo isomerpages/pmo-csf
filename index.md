@@ -16,9 +16,9 @@ sections:
         - title: Learning For The Future
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/learning-for-the-future-4c960c009fb5
-        - title: Who Are the Lost Generation of COVID-19?
+        - title: What Does Foresight Work Look Like in a Pandemic?
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/who-are-the-lost-generation-of-covid-19-5ea57e5e19ae
+          url: https://pmo-csf.medium.com/what-does-foresight-work-look-like-in-a-pandemic-9c583c31aa5a
         - title: A World Reaching Inflection Point
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/a-world-reaching-inflection-point-9afdec2d1e00
