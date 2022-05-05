@@ -19,9 +19,9 @@ sections:
         - title: What Does Foresight Work Look Like in a Pandemic?
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/what-does-foresight-work-look-like-in-a-pandemic-9c583c31aa5a
-        - title: A World Reaching Inflection Point
+        - title: "Dying To Be Green: The New Life of Death"
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/a-world-reaching-inflection-point-9afdec2d1e00
+          url: https://pmo-csf.medium.com/dying-to-be-green-the-new-life-of-death-143b9ad9f907
   - resources:
       title: Latest News
       subtitle: Media Centre
