@@ -13,9 +13,9 @@ sections:
       button: Read More
       url: /who-we-are/
       key_highlights:
-        - title: Learning For The Future
+        - title: Memory and Imagination in Understanding and Managing Risk
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/learning-for-the-future-4c960c009fb5
+          url: https://pmo-csf.medium.com/memory-and-imagination-in-understanding-and-managing-risk-67e2fc7d964c
         - title: What Does Foresight Work Look Like in a Pandemic?
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/what-does-foresight-work-look-like-in-a-pandemic-9c583c31aa5a
