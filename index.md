@@ -16,9 +16,9 @@ sections:
         - title: Memory and Imagination in Understanding and Managing Risk
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/memory-and-imagination-in-understanding-and-managing-risk-67e2fc7d964c
-        - title: What Does Foresight Work Look Like in a Pandemic?
+        - title: "Breaking The Habitat: The Rise of Co-Living"
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/what-does-foresight-work-look-like-in-a-pandemic-9c583c31aa5a
+          url: https://pmo-csf.medium.com/breaking-the-habitat-the-rise-of-co-living-8d12d9c287bb
         - title: "Dying To Be Green: The New Life of Death"
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/dying-to-be-green-the-new-life-of-death-143b9ad9f907
