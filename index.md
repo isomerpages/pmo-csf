@@ -19,9 +19,9 @@ sections:
         - title: "Breaking The Habitat: The Rise of Co-Living"
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/breaking-the-habitat-the-rise-of-co-living-8d12d9c287bb
-        - title: "Dying To Be Green: The New Life of Death"
+        - title: For Wh(Art) It’s Worth?
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/dying-to-be-green-the-new-life-of-death-143b9ad9f907
+          url: https://pmo-csf.medium.com/for-wh-art-its-worth-7a9ecb063d6c
   - resources:
       title: Latest News
       subtitle: Media Centre
