@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Driving Forces Cards "
+title: Driving Forces Cards
 date: 2022-04-04
 permalink: /media-centre/publications/Csf-df-cards
-description: ""
+description: driving forces, futures, trends, foresight
 ---
+
 
 #### **Driving Forces 2040 Cards**
 

@@ -13,9 +13,9 @@ sections:
       button: Read More
       url: /who-we-are/
       key_highlights:
-        - title: Memory and Imagination in Understanding and Managing Risk
+        - title: Anglo-Saxon Cultural Revolution
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/memory-and-imagination-in-understanding-and-managing-risk-67e2fc7d964c
+          url: https://pmo-csf.medium.com/anglo-saxon-cultural-revolution-b9fc83424ec6
         - title: "Breaking The Habitat: The Rise of Co-Living"
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/breaking-the-habitat-the-rise-of-co-living-8d12d9c287bb
