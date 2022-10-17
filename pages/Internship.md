@@ -11,7 +11,7 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| Sep – Dec 2022 | 21 Jun 2022  | 30 Jun 2022  |
+| Jan – Mar 2023 | 14 Oct 2022  | 26 Oct 2022  |
 
 ---  
 
@@ -45,7 +45,7 @@ Listen to our former interns on their experience with us, in their own words:
 
 For more information on eligibility and the application process, please refer to the [brochure (1MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/Internship-Programme-May2022-Brochure.pdf). 
 
-If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Zulhaqem_Zulkifli@pmo.gov.sg](mailto:Zulhaqem_Zulkifli@pmo.gov.sg)
+If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Fuad_Johari@pmo.gov.sg](mailto:Fuad_Johari@pmo.gov.sg)
 
 Please include in your email the subject header: 
-"CSF Internship 2022 (Name) (University) (Degree Course)"
+"CSF Internship 2023 (Name) (University) (Degree Course)"
