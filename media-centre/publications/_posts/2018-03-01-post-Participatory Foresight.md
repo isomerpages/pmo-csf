@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'Participatory Foresight'
-date: 2018-03-01T00:00:00.000Z
-permalink: /media-centre/publications/Participatory-foresight
-
+title: Participatory Foresight
+date: 2018-03-01
+permalink: /media-centre/publications/Participatory-foresight/
+description: foresight engagement methods
+image: ""
 ---
+
 
 
 #### Participatory Foresight

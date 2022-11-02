@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'Conversations for the Future'
-date: 2018-01-10T00:00:00.000Z
-permalink: /media-centre/publications/Convo-for-future
-
+title: Conversations for the Future
+date: 2018-01-10
+permalink: /media-centre/publications/Convo-for-future/
+description: "foresight futures "
+image: ""
 ---
+
 
 
 #### **Conversations for the Future (Series)**

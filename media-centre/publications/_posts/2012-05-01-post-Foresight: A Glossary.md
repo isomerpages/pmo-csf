@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'Foresight: A Glossary'
-date: 2012-05-01T00:00:00.000Z
-permalink: /media-centre/publications/Foresight-glossary
-
+title: "Foresight: A Glossary"
+date: 2012-05-01
+permalink: /media-centre/publications/Foresight-glossary/
+description: foresight glossary concordance index
+image: ""
 ---
+
 
 
 

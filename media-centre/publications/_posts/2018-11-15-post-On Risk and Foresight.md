@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'On Risk and Foresight'
-date: 2018-11-15T00:00:00.000Z
-permalink: /media-centre/publications/on-risk-and-foresight
-
+title: On Risk and Foresight
+date: 2018-11-15
+permalink: /media-centre/publications/on-risk-and-foresight/
+description: foresight risk management strategy
+image: ""
 ---
+
 
 
 #### On Risk and Foresight

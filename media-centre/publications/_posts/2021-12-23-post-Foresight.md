@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Foresight
-date: 2021-12-23T00:00:00.000Z
-permalink: /media-centre/publications/Foresight-Series
+date: 2021-12-23
+permalink: /media-centre/publications/Foresight-Series/
+description: annual report centre for strategic futures foresight
+image: ""
 ---
+
 #### **Foresight (Series)**
 
 _Foresight_ is the Centre for Strategic Futures' biennial publication covering research into international megatrends and emerging issues. It focuses on the _future_ of these developments -- how these trends and issues may develop, and their implications. It also contains CSF’s reflections and experiences in foresight methods and major highlights from our work.

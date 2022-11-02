@@ -16,9 +16,9 @@ sections:
         - title: Anglo-Saxon Cultural Revolution
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/anglo-saxon-cultural-revolution-b9fc83424ec6
-        - title: "Breaking The Habitat: The Rise of Co-Living"
+        - title: What Paw Patrol Teaches Us About Resilience
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/breaking-the-habitat-the-rise-of-co-living-8d12d9c287bb
+          url: https://pmo-csf.medium.com/what-paw-patrol-teaches-us-about-resilience-9b184aa28160
         - title: For Wh(Art) It’s Worth?
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/for-wh-art-its-worth-7a9ecb063d6c
