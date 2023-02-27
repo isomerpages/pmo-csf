@@ -11,14 +11,15 @@ One of the key roles of CSF is to share the SP+ toolkit across Government. A mai
 
 This introductory course provides  a “taster” of the various aspects of foresight work in Government, and exposes budding futurists to a range of basic tools. 
 
+*The next session is scheduled on 10 May 2023, please click [here](https://register.csc.gov.sg/registration?courseId=300186&classNum=5) to register (registration closes on 5 May 2023).*
 
 #### **FutureCraft 102: SP+ Tools and Facilitation**
 
 FutureCraft 102 focuses on various tools from our SP+ suite. Participants discuss possible trajectories of a given public policy issue with the help of these tools, and also learn how to facilitate conversations using these tools.
 
+*The next session is scheduled on 12 May 2023, please click [here](https://register.csc.gov.sg/registration?courseId=300187&classNum=5) to register (registration closes on 7 May 2023).*
+
  
 #### **FutureCraft 201: Scenario Planning Workshop**
 
 FutureCraft 201 is centred on the scenario planning methodology, from defining the focal concern and driving force analysis to constructing scenario frameworks, scenario-writing and translating scenarios to strategies.
-
-*FutureCraft 2021 sessions have ended. Please keep a look out for the 2022 updates on this site.*
