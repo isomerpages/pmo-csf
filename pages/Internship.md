@@ -11,7 +11,7 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| Sep – Dec 2023 | 24 Jul 2023  | 1 Aug 2023  |
+| Sep – Dec 2023 | 24 Jul 2023  | 8 Aug 2023  |
 
 ---  
 
