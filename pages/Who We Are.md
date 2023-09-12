@@ -43,7 +43,7 @@ Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Ch
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security &amp; Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 ----
-<img src="/images/who-we-are/JK.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF">
+<img src="/images/who-we-are/jk.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF">
 
 #### **Ms Jeanette KWEK,** *Head, Centre for Strategic Futures and  Director, Futures Directorate PMO Strategy Group*
 
@@ -55,7 +55,7 @@ Jeanette is a political scientist and economist by training, having graduated wi
 
 ----
 
-<img src="/images/who-we-are/LCP.jpg" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF">
+<img src="/images/who-we-are/lcp.jpg" style="max-width: 180px; max-height: 270px;" alt="Lee Chor Pharn CSF">
 
 #### **Mr LEE Chor Pharn,** *Principal Foresight Analyst, Centre for Strategic Futures*
 

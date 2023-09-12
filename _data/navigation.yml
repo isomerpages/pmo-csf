@@ -1,4 +1,4 @@
-logo: /images/CSF-Logo-01.png
+logo: /images/csf-logo-01.png
 links:
     - title: 'Who We Are'
       url: /who-we-are/
@@ -14,6 +14,6 @@ links:
         - title: Contact Information
           url: /contact-us/
         - title: Internship Programme
-          url: /Internship-Programme/
+          url: /internship-programme/
     - title: Blog
       url: /blog-here/
