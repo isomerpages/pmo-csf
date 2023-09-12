@@ -2,7 +2,7 @@
 layout: post
 title: Foresight
 date: 2021-12-23
-permalink: /media-centre/publications/Foresight-Series/
+permalink: /media-centre/publications/foresight-series/
 description: annual report centre for strategic futures foresight
 image: ""
 ---

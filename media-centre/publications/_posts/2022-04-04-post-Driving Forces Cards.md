@@ -2,7 +2,7 @@
 layout: post
 title: Driving Forces Cards
 date: 2022-04-04
-permalink: /media-centre/publications/Csf-df-cards
+permalink: /media-centre/publications/csf-df-cards/
 description: driving forces, futures, trends, foresight
 ---
 

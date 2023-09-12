@@ -2,7 +2,7 @@
 layout: post
 title: 'COVID-19 Shifts Infographic'
 date: 2020-11-09T00:00:00.000Z
-permalink: /media-centre/publications/CSF-COVID-19-Shifts-Infographic
+permalink: /media-centre/publications/csf-covid-19-shifts-infographic/
 
 ---
 

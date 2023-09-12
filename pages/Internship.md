@@ -1,6 +1,6 @@
 ---
 title: Internship Programme
-permalink: /Internship-Programme/
+permalink: /internship-programme/
 breadcrumb: Internship Programme
 ---
 #### **Internship Programme**

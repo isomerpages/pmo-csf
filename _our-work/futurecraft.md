@@ -1,5 +1,5 @@
 ---
-permalink: /our-work/Future-craft/
+permalink: /our-work/future-craft/
 title: FutureCraft
 breadcrumb: FutureCraft
 ---
