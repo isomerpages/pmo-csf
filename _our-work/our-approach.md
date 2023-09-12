@@ -58,7 +58,6 @@ A bi-monthly meeting which gathers staff level officers involves in futures and 
 
 In addition, CSF works closely with several partners, including:
 
-* RAHS Programme Office  
 * [Civil Service College](https://www.csc.gov.sg/)
 * Ministry of Trade and Industry's Futures Group
 * Ministry of Manpower's Risk Management and Futures Group
