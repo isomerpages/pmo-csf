@@ -2,7 +2,7 @@
 layout: post
 title: Participatory Foresight
 date: 2018-03-01
-permalink: /media-centre/publications/Participatory-foresight/
+permalink: /media-centre/publications/participatory-foresight/
 description: foresight engagement methods
 image: ""
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 'GovInsider''s Women in GovTech Special Report 2019 features Liana Tang, Deputy Head of CSF, 16 Dec 2019'
 date: 2019-12-16T00:00:00.000Z
-permalink: /media-centre/speeches/women-in-govtech-special-report-liana-tang
+permalink: /media-centre/speeches/women-in-govtech-special-report-liana-tang/
 
 ---
 

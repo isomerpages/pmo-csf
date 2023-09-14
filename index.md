@@ -9,7 +9,7 @@ sections:
       title: <font size="10">Centre for Strategic Futures</font>
       subtitle: Building a strategically agile public service ready to manage a
         complex and fast-changing environment
-      background: /images/CSFBanner.jpg
+      background: /images/csfbanner.jpg
       button: Read More
       url: /who-we-are/
       key_highlights:

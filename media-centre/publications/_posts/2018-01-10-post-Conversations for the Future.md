@@ -2,7 +2,7 @@
 layout: post
 title: Conversations for the Future
 date: 2018-01-10
-permalink: /media-centre/publications/Convo-for-future/
+permalink: /media-centre/publications/convo-for-future/
 description: foresight futures
 image: ""
 ---

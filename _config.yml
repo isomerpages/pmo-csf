@@ -22,7 +22,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/CSF-Favicon.ico
+favicon: /images/csf-favicon.ico
 google_analytics: null
 permalink: none
 baseurl: ""

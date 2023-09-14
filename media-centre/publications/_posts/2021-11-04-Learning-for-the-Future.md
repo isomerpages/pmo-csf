@@ -2,7 +2,7 @@
 layout: post
 title: 'Learning for the Future'
 date: 2021-11-04T00:00:00.000Z
-permalink: /media-centre/publications/Learning-for-the-Future
+permalink: /media-centre/publications/learning-for-the-future/
 
 ---
 
