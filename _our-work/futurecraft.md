@@ -24,4 +24,4 @@ FutureCraft 102 focuses on various tools from our SP+ suite. Participants discus
 
 FutureCraft 201 is centred on the scenario planning methodology, from defining the focal concern and driving force analysis to constructing scenario frameworks, scenario-writing and translating scenarios to strategies.
 
-*The next session is scheduled on 28-29 September 2023; please click [here](https://register.csc.gov.sg/registration?courseId=304756&classNum=3) to register (registration closes on 23 September 2023).*
+*The registration for the 2023 session has ended; please keep a look out for the next session scheduled in 2024.*
