@@ -11,7 +11,7 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| Sep – Dec 2023 | 24 Jul 2023  | 8 Aug 2023  |
+| Jan – Mar 2024 | 16 Oct 2023  | 25 Oct 2023  |
 
 ---  
 
@@ -46,7 +46,7 @@ Listen to our former interns on their experience with us, in their own words:
 For more information on eligibility and the application process, please refer to the 
 [brochure](/files/media-centre/internship_programme_winter_2023.pdf).
 
-If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Joel_Nee@pmo.gov.sg](mailto:joel_nee@pmo.gov.sg)
+If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Lim_Yun_Hui@pmo.gov.sg](mailto:lim_yun_hui@pmo.gov.sg)
 
 Please include in your email the subject header: 
-"CSF Internship 2023 (Name) (University) (Degree Course)"
+"CSF Internship 2024 (Name) (University) (Degree Course)"
