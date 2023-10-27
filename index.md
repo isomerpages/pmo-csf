@@ -13,9 +13,9 @@ sections:
       button: Read More
       url: /who-we-are/
       key_highlights:
-        - title: Anglo-Saxon Cultural Revolution
+        - title: Responding To The Algorithmic-Climate-Security-Weird Era
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/anglo-saxon-cultural-revolution-b9fc83424ec6
+          url: https://pmo-csf.medium.com/responding-to-the-algorithmic-climate-security-weird-era-9c38e456722e
         - title: What Paw Patrol Teaches Us About Resilience
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/what-paw-patrol-teaches-us-about-resilience-9b184aa28160
