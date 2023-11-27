@@ -16,9 +16,9 @@ sections:
         - title: Responding To The Algorithmic-Climate-Security-Weird Era
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/responding-to-the-algorithmic-climate-security-weird-era-9c38e456722e
-        - title: What Paw Patrol Teaches Us About Resilience
+        - title: Macronarratives and Fads
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/what-paw-patrol-teaches-us-about-resilience-9b184aa28160
+          url: https://pmo-csf.medium.com/macronarratives-and-fads-626039deff31
         - title: "Conversations for the Future: Volume 3"
           description: CSF Publication
           url: https://www.csf.gov.sg/media-centre/publications/convo-for-future/
