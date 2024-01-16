@@ -10,7 +10,7 @@ sections:
       subtitle: Building a strategically agile public service ready to manage a
         complex and fast-changing environment
       background: /images/csfbanner.jpg
-      button: Read More
+      button: who we are
       url: /who-we-are/
       key_highlights:
         - title: Responding To The Algorithmic-Climate-Security-Weird Era
