@@ -19,9 +19,10 @@ sections:
         - title: Macronarratives and Fads
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/macronarratives-and-fads-626039deff31
-        - title: "Conversations for the Future: Volume 3"
-          description: CSF Publication
-          url: https://www.csf.gov.sg/media-centre/publications/convo-for-future/
+        - title: The importance of having range in a wicked world
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/the-importance-of-having-range-in-a-wicked-world-019af8948080
+      variant: center
   - resources:
       title: Latest News
       subtitle: Media Centre
