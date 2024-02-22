@@ -45,7 +45,7 @@ Listen to our former interns on their experience with us, in their own words:
 ---
 
 For more information on eligibility and the application process, please refer to the 
-[brochure](/files/media-centre/csf_intern_broc_oct23.pdf).
+[brochure](/files/media-centre/csf_intern_broc_summer2024.pdf).
 
 If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Fuad_Johari@pmo.gov.sg](mailto:Fuad_Johari@pmo.gov.sg)
 
