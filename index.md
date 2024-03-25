@@ -27,6 +27,6 @@ sections:
       title: Latest News
       subtitle: Media Centre
       button: More Media
-      url: media-centre/
+      id: resources
 notification: ""
 ---
