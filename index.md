@@ -17,9 +17,9 @@ sections:
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/the-importance-of-having-range-in-a-wicked-world-019af8948080
         - title: Futures Conversation 2023
-          description: "Summary Report "
+          description: Summary Report
           url: https://www.csf.gov.sg/foresight-conference/fcx2023/
-        - title: Macronarratives and Fads
+        - title: narratives and Fads
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/macronarratives-and-fads-626039deff31
       variant: center
