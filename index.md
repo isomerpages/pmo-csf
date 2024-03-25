@@ -13,7 +13,7 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
-        - title: Importance of having range in a wicked world
+        - title: The Importance of having range in a wicked world
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/the-importance-of-having-range-in-a-wicked-world-019af8948080
         - title: Futures Conversation 2023
