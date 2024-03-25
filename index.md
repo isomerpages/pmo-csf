@@ -19,9 +19,9 @@ sections:
         - title: Futures Conversation 2023
           description: Summary Report
           url: https://www.csf.gov.sg/foresight-conference/fcx2023/
-        - title: Macronarratives and Fads
+        - title: Prudish Generation Z and What It Means for the Future
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/macronarratives-and-fads-626039deff31
+          url: https://pmo-csf.medium.com/prudish-generation-z-and-what-it-means-for-the-future-9bdca46d7f21
       variant: center
   - resources:
       title: Latest News
