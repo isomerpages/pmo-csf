@@ -13,7 +13,7 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
-        - title: Prudish Generation Z and What It Means for the Future
+        - title: '"Prudish" Generation Z and What It Means for the Future'
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/prudish-generation-z-and-what-it-means-for-the-future-9bdca46d7f21
         - title: The Importance of having range in a wicked world
