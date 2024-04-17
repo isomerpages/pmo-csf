@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: From Biotech to “Tech-Bio”
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/from-biotech-to-tech-bio-28bc3062a6acnference/fcx2023/
+          url: https://pmo-csf.medium.com/from-biotech-to-tech-bio-28bc3062a6ac
         - title: '"Prudish" Generation Z and What It Means for the Future'
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/prudish-generation-z-and-what-it-means-for-the-future-9bdca46d7f21
