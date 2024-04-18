@@ -13,15 +13,15 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
+        - title: Memoirs of a Homemaker
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/memoirs-of-a-homemaker-8174e999fadb
         - title: From Biotech to “Tech-Bio”
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/from-biotech-to-tech-bio-28bc3062a6ac
         - title: '"Prudish" Generation Z and What It Means for the Future'
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/prudish-generation-z-and-what-it-means-for-the-future-9bdca46d7f21
-        - title: Memoirs of a Homemaker
-          description: CSF Blog Post
-          url: https://pmo-csf.medium.com/memoirs-of-a-homemaker-8174e999fadb
       variant: center
   - resources:
       title: Latest News
