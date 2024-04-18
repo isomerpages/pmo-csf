@@ -19,9 +19,9 @@ sections:
         - title: '"Prudish" Generation Z and What It Means for the Future'
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/prudish-generation-z-and-what-it-means-for-the-future-9bdca46d7f21
-        - title: The Importance of having range in a wicked world
+        - title: Memoirs of a Homemaker
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/the-importance-of-having-range-in-a-wicked-world-019af8948080
+          url: https://pmo-csf.medium.com/memoirs-of-a-homemaker-8174e999fadb
       variant: center
   - resources:
       title: Latest News
