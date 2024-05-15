@@ -17,7 +17,7 @@ insights. Budding futurists will be exposed to a range of basic tools to
 get started in their futures journey.</p>
 <p><em>The next session is scheduled on 13 November 2024; please click <a href="https://register.csc.gov.sg/registration?courseId=300186&amp;classNum=8" rel="noopener noreferrer nofollow" target="_blank">here</a> to register (registration closes on 6 November 2024).</em>
 </p>
-<h4><strong>FutureCraft 102: Examining Emerging Issues</strong></h4>
+<h4><strong>FutureCraft 102: Building Your Toolkit</strong></h4>
 <p>FutureCraft 102 focuses on uncovering and challenging assumptions and
 biases in how public policy issues may be examined. Participants will also
 come up with a range of possible futures which can be used to generate
