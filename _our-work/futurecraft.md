@@ -6,19 +6,19 @@ variant: markdown
 ---
 #### **FutureCraft**
 
-One of the key roles of CSF is to share the SP+ toolkit across Government. A main vehicle for this is a series of workshops dubbed “FutureCraft”, which aims to introduce key skills and tools relevant to government foresight work, at the Civil Service College. Our FutureCraft courses, which are for Singapore public officers only, are as follows:
+One of the key roles of CSF is to build strategic foresight capability across the Government. The Centre thus conducts a series of workshops dubbed “FutureCraft”, which aims to introduce key skills and tools relevant to government foresight work, at the Civil Service College. Our FutureCraft courses, which are for Singapore public officers only, are as follows:
 
 #### **FutureCraft 101: Introduction to Foresight**
 
-This introductory course provides  a “taster” of the various aspects of foresight work in Government, and exposes budding futurists to a range of basic tools. 
+This introductory course provides a “taster” of foresight work in Government, focusing on identifying signs of change, sense-making and communicating insights. Budding futurists will be exposed to a range of basic tools to get started in their futures journey.
 
-*The next session is scheduled on 13 November 2024; please click [here](https://register.csc.gov.sg/registration?courseId=300186&classNum=8) to register.*
+*The next session is scheduled on 13 November 2024; please click [here](https://register.csc.gov.sg/registration?courseId=300186&classNum=8) to register (registration closes on 6 November 2024).*
 
-#### **FutureCraft 102: SP+ Tools and Facilitation**
+#### **FutureCraft 102: Examining Emerging Issues**
 
-FutureCraft 102 focuses on various tools from our SP+ suite. Participants discuss possible trajectories of a given public policy issue with the help of these tools, and also learn how to facilitate conversations using these tools.
+FutureCraft 102 focuses on uncovering and challenging assumptions and biases in how public policy issues may be examined. Participants will also come up with a range of possible futures which can be used to generate conversations on emerging issues and inspire change.
 
-*The next session is scheduled on 15 November 2024; please click [here](https://register.csc.gov.sg/registration?courseId=300187&classNum=7) to register.*
+*The next session is scheduled on 15 November 2024; please click [here](https://register.csc.gov.sg/registration?courseId=300187&classNum=7) to register (registration closes on 8 November 2024).*
 
  
 #### **FutureCraft 201: Scenario Planning Workshop**
