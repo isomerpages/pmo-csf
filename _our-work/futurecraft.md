@@ -22,7 +22,7 @@ get started in their futures journey.</p>
 biases in how public policy issues may be examined. Participants will also
 come up with a range of possible futures which can be used to generate
 conversations on emerging issues and inspire change.</p>
-<p><em>The next session is scheduled on 15 November 2024; please click <a href="https://register.csc.gov.sg/registration?courseId=300187&amp;classNum=7" rel="noopener noreferrer nofollow" target="_blank">here</a> to register (registration closes on 8 November 2024).</em>
+<p><em>The next session is scheduled on 15 November 2024; please click <a href="https://register.csc.gov.sg/registration?courseId=300187&amp;classNum=8" rel="noopener noreferrer nofollow" target="_blank">here</a> to register (registration closes on 8 November 2024).</em>
 </p>
 <h4><strong>FutureCraft 201: Scenario Planning Workshop</strong></h4>
 <p>FutureCraft 201 is centred on the scenario planning methodology, from
