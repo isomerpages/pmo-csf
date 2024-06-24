@@ -13,12 +13,12 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
+        - title: Non-Linearities and Futures Thinking
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/non-linearities-and-futures-thinking-be44add07636
         - title: Seeing in an Age of Deepfake
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/seeing-in-an-age-of-deepfake-reflections-from-one-century-ago-1bcd6179dd42
-        - title: Memoirs of a Homemaker
-          description: CSF Blog Post
-          url: https://pmo-csf.medium.com/memoirs-of-a-homemaker-8174e999fadb
         - title: From Biotech to “Tech-Bio”
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/from-biotech-to-tech-bio-28bc3062a6ac
