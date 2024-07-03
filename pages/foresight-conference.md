@@ -1,13 +1,9 @@
 ---
-title: 'Foresight Conference'
+title: Foresight Conference
 permalink: /foresight-conference/
-breadcrumb: 'Foresight Conference'
-
+breadcrumb: Foresight Conference
+variant: markdown
 ---
-
-
-
-
 ### **Foresight Conference 2017**
 
 Foresight Conference 2017, held on 20-21 July, examined issues of identity and aspirations. We looked at how forces from technology, to our work, to our values and beliefs, to our ethnicities and cultures, shape how we see ourselves and what we hope for.
@@ -26,8 +22,6 @@ Participants included:
 * **Rohan Mukherjee,** Associate Professor at Yale-National University of Singapore, who has worked on nationalism in India and its interaction with political goals, as well as the intersection of identity politics and foreign policy.
 * **Mathew Mathews,** Senior Research Fellow at the Institute of Policy Studies who examines issues around societal cohesion.
 
-The conference website can be found [here](https://stratfutures.wixsite.com/foresightconference){:target="_blank"}  
-
 
 [Foresight Conference 2017 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/staging/files/media-centre/csf-foresight-conference-2017-report.pdf){:target="_blank"}
 
@@ -37,4 +31,4 @@ The conference website can be found [here](https://stratfutures.wixsite.com/fore
 [Foresight Conference 2013 (2MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/psd-foresight-conference-20133d5de5d076d766deb7fdff00000cf313.pdf){:target="_blank"}  
 
 
-[Foresight Conference 2011 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}  
+[Foresight Conference 2011 (4MB)](https://github.com/isomerpages/isomerpages-csf/raw/master/files/media-centre/foresight-conference-proceedings.pdf){:target="_blank"}
