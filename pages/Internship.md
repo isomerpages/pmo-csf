@@ -12,7 +12,7 @@ Calls for internship applications are listed below:
 
 | Internship Period  | Application opens | Closing date |
 | ------------- | ------------- | ------------- |
-| May – Aug 2024 | Monday 26 Feb 2024  | Friday 8 Mar 2024  |
+| Sep – Dec 2024 | Saturday 13 Jul 2024  | Friday 19 Jul 2024  |
 
 ---  
 
@@ -45,9 +45,9 @@ Listen to our former interns on their experience with us, in their own words:
 ---
 
 For more information on eligibility and the application process, please refer to the 
-[brochure](/files/media-centre/CSF_Intern_Broc_Summer2024.pdf).
+[brochure](/files/media-centre/Internship_Brochure_Winter2024.pdf). 
 
-If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Fuad_Johari@pmo.gov.sg](mailto:Fuad_Johari@pmo.gov.sg)
+If you would like to apply, please submit your CV and latest transcript to: [Inthira_Mailvaganam@pmo.gov.sg](mailto:Inthira_Mailvaganam@pmo.gov.sg) and [Joel_Nee@pmo.gov.sg](mailto:Joel_Nee@pmo.gov.sg)
 
 Please include in your email the subject header: 
 "CSF Internship 2024 (Name) (University) (Degree Course)"
