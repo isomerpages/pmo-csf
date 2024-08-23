@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Foresight 2024
           description: CSF Publication (3MB)
-          url: https://file.go.gov.sg/csfforesight2024.pdf
+          url: https://go.gov.sg/csfforesight2024
         - title: Futures Tools to Envision a Post-Growth World
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/futures-tools-to-envision-a-post-growth-world-14bfc39d4a90
