@@ -8,13 +8,18 @@ description: Futures Conversation 2021
 2021 delved into the evolving concept of power and its implications on
 society and nation-states. The conference, held virtually due to the COVID-19
 pandemic, discussed the theme "50 Shades of Power" across three main areas:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The changing dynamics of traditional
-power;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rise of new power structures; and</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interplay between old and new power
-forms</p>
-<p>&nbsp;</p>
-<p>Participants included:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The changing dynamics of traditional power;</p>
+</li>
+<li>
+<p>The rise of new power structures; and</p>
+</li>
+<li>
+<p>The interplay between old and new power forms</p>
+</li>
+</ol>
+<p>&nbsp;Participants included:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Nabila Alibhai</strong>, Founder of inCOMMONS and Lecturer on
