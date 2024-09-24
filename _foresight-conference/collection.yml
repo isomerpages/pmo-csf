@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Futures Conversation 2023.md
+      - Futures Conversation 2021.md
       - foresight-conference-2019.md
       - foresight-conference-2017.md
       - past-foresight-conferences.md
