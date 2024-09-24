@@ -13,7 +13,7 @@ power;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rise of new power structures; and</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interplay between old and new power
 forms</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Participants included:</p>
 <ul data-tight="true" class="tight">
 <li>
