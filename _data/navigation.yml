@@ -1,0 +1,19 @@
+logo: /images/csf-logo-01.png
+links:
+    - title: 'Who We Are'
+      url: /who-we-are/
+    - title: 'Our Work'
+      collection: our-work
+    - title: 'Media Centre'
+      resource_room: true
+    - title: 'Foresight Conference'
+      collection: foresight-conference
+    - title: 'Contact Us'
+      false_collection: true
+      sublinks: 
+        - title: Contact Information
+          url: /contact-us/
+        - title: Internship Programme
+          url: /internship-programme/
+    - title: Blog
+      url: /blog-here/

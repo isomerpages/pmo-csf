@@ -1,0 +1,53 @@
+title: 'Centre for Strategic Futures'
+title-abbreviated: 'Centre for Strategic Futures'
+description: 'Building a strategically agile public service ready to manage a complex and fast-changing environment'
+url: 'https://www.csf.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+resources_name: media-centre
+paginate: 12
+paginate_path: '/media-centre/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/csf-favicon.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: '#1D1D1D'
+  secondary-color: '#A05A1B'
+  media-colors:
+    - title: media-color-one
+      color: '#B3466E'
+    - title: media-color-two
+      color: '#934710'
+    - title: media-color-three
+      color: '#01828E'
+    - title: media-color-four
+      color: '#49759A'
+    - title: media-color-five
+      color: '#00838f'
