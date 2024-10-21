@@ -13,16 +13,18 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
+        - title: Cracking the Personality Code
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/cracking-the-personality-code-past-predictions-present-insights-future-moves-3e6699421da5
         - title: Foresight 2024
           description: CSF Publication (3MB)
           url: https://go.gov.sg/csfforesight2024
         - title: Futures Tools to Envision a Post-Growth World
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/futures-tools-to-envision-a-post-growth-world-14bfc39d4a90
-        - title: Non-Linearities and Futures Thinking
-          description: CSF Blog Post
-          url: https://pmo-csf.medium.com/non-linearities-and-futures-thinking-be44add07636
-      variant: center
+      variant: floating
+      alignment: left
+      size: md
   - resources:
       title: Latest News
       subtitle: Media Centre
