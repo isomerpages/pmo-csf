@@ -30,6 +30,6 @@ conversations on emerging issues and inspire change.</p>
 <p>FutureCraft 201 is centred on the scenario planning methodology, from
 defining the focal concern and driving force analysis to constructing scenario
 frameworks, scenario-writing and translating scenarios to strategies.</p>
-<p><em>The 2025 sessions are scheduled on 16-17 September; please click </em>
+<p><em>The 2025 session is scheduled on 16-17 September; please click </em>
 <a href="https://register.csc.gov.sg/registration?courseId=304756&amp;classNum=5" rel="noopener nofollow" target="_blank">here</a><em> to register (registration closes on 9 September).</em>
 </p>
