@@ -15,13 +15,15 @@ CSF meets over 200 thought leaders yearly through incoming visits, overseas trip
 The CSF’s Distinguished Fellows and Fellows are long-time friends of the Centre who support and amplify the Centre’s work by providing expert input to our practice of foresight, and by expanding the Centre’s networks.
 
 CSF currently has two Distinguished Fellows:
-* **Peter Schwartz,** Chief Futures Officer and Advisor to the Office of the CEO, Salesforce.com
 * **Dr Khong Cho-Oon,** Associate Fellow, Said Business School, University of Oxford
+* **Peter Schwartz,** Chief Futures Officer and Advisor to the Office of the CEO, Salesforce.com
 
-We also have two CSF Fellows:
+We also have four CSF Fellows:
 
+* **Ken Liu,** Author of speculative fiction, winner of the Nebula, Hugo and World Fantasy awards and Futurist
 * **Dr Aaron Maniam,** Fellow of Practice and Director of Digital Transformation Education, University of Oxford’s Blavatnik School of Government
 * **Prof Vaughn Tan,** Assistant Professor in Strategy and Entrepreneurship, University College London's School of Management
+* **Prof Adam Tooze,** Kathryn and Shelby Cullom Davis Professor of History, Columbia University 
 
 #### **Senior Researchers**
 
