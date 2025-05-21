@@ -16,7 +16,7 @@ focusing on identifying signs of change, sense-making and communicating
 insights. Budding futurists will be exposed to a range of basic tools to
 get started in their futures journey.</p>
 <p><em>The 2025 sessions are scheduled on 20 May and 11 November; please click </em>
-<a href="https://register.csc.gov.sg/registration?courseId=300186&amp;classNum=9" rel="noopener nofollow" target="_blank">here</a><em> to register (registration closes on 13 May and 4 November respectively).</em>
+<a href="https://register.csc.gov.sg/registration?courseId=300186&amp;classNum=10" rel="noopener nofollow" target="_blank">here</a><em> to register (registration closes on 13 May and 4 November respectively).</em>
 </p>
 <h4><strong>FutureCraft 102: Building Your Toolkit</strong></h4>
 <p>FutureCraft 102 focuses on uncovering and challenging assumptions and
