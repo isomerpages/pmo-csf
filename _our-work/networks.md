@@ -16,14 +16,14 @@ The CSF’s Distinguished Fellows and Fellows are long-time friends of the Cent
 
 CSF currently has two Distinguished Fellows:
 * **Dr Khong Cho-Oon,** Associate Fellow, Said Business School, University of Oxford
+* **Ken Liu,** Author of speculative fiction, winner of the Nebula, Hugo and World Fantasy awards and Futurist
 * **Peter Schwartz,** Chief Futures Officer and Advisor to the Office of the CEO, Salesforce.com
+* **Prof Adam Tooze,** Kathryn and Shelby Cullom Davis Professor of History, Columbia University 
 
 We also have four CSF Fellows:
-
-* **Ken Liu,** Author of speculative fiction, winner of the Nebula, Hugo and World Fantasy awards and Futurist
 * **Dr Aaron Maniam,** Fellow of Practice and Director of Digital Transformation Education, University of Oxford’s Blavatnik School of Government
 * **Prof Vaughn Tan,** Assistant Professor in Strategy and Entrepreneurship, University College London's School of Management
-* **Prof Adam Tooze,** Kathryn and Shelby Cullom Davis Professor of History, Columbia University 
+
 
 #### **Senior Researchers**
 
