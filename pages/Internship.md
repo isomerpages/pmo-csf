@@ -28,13 +28,13 @@ to join our research efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May - August 2025</p>
+<p>September - December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 February 2025</p>
+<p>2 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 March 2025</p>
+<p>9 Jul 2025</p>
 </td>
 </tr>
 </tbody>
@@ -67,10 +67,11 @@ words:</p>
 </div>
 <p>---</p>
 <p>For more information on eligibility and the application process, please
-refer to the <a href="/files/media-centre/CSF_Internship_Brochure__Summer_2025_.pdf" rel="noopener nofollow" target="_blank">brochure</a>.</p>
+refer to the <a href="/files/media-centre/CSF_Internship_Brochure_Sep_2025.pdf" rel="noopener nofollow" target="_blank">brochure.</a>
+</p>
 <p>If you would like to apply, please submit your CV and latest transcript
-to: <a href="mailto:WEE_Xue_Ting@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Xue_Ting@pmo.gov.sg</a> and
-<a href="mailto:Nurantana_HARIS@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurantana_HARIS@pmo.gov.sg</a>
+to: <a href="mailto:Gurubaran_SUBRAMANIAM@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gurubaran_SUBRAMANIAM@pmo.gov.sg</a> and
+<a href="mailto:Inthira_MAILVAGANAM@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Inthira_MAILVAGANAM@pmo.gov.sg</a>
 </p>
 <p>Please include in your email the subject header: "CSF Internship 2025
 (Name) (University) (Degree Course)"</p>
