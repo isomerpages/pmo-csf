@@ -3,6 +3,7 @@ title: Who We Are
 permalink: /who-we-are/
 breadcrumb: Who We Are
 description: history vision mission leadership
+variant: markdown
 ---
 ### **Vision**
 
@@ -38,7 +39,7 @@ On 1 July 2015, CSF became part of the new Strategy Group in the Prime Minister'
 
 Peter Ho is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow in the Civil Service College. 
 
-Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Chairman of the Social Science Research Council (SSRC), Chairman of the Campus for Research Excellence and Technological Enterprise (CREATE) Governing Council, Chairman of the Office for Space Technology &amp; Industry (OSTIn) Board, and Chairman of PRECIsion Health Research, SingaporE (PRECISE) Board Oversight Committee, and Chairman of the National Gallery Singapore (NGS). He is a board member of the National Research Foundation (NRF), and a member of the Board of Governors of the S Rajaratnam School of International Studies (RSIS), and of the Lee Kuan Yew School of Public Policy (LKYSPP). 
+Peter Ho is Chairman of the Social Science Research Council (SSRC), Chairman of the Campus for Research Excellence and Technological Enterprise (CREATE) Governing Council, Chairman of the Office for Space Technology &amp; Industry (OSTIn) Board, Chairman of PRECIsion Health Research, SingaporE (PRECISE) Board Oversight Committee, Chairman of the National Gallery Singapore (NGS), and Chairman of the Institute for Intelligent Functional Materials (I-FIM) Governing Board. He is also a member of the Board of Governors of the S Rajaratnam School of International Studies (RSIS), and of the Lee Kuan Yew School of Public Policy (LKYSPP).
 
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security &amp; Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
