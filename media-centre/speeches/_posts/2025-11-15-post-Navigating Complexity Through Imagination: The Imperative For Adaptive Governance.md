@@ -9,5 +9,7 @@ image: ""
 variant: tiptap
 ---
 <p>Keynote speech by Mr Peter Ho, delivered at the opening of ArtScience
-Museum's Symposium on Saturday, 15 November 2025.</p>
-<p>[Transcript](/files/media-centre/speeches/Navigating_Complexity_Imagination_15Nov25.pdf){:target="_<em>blank</em>"}</p>
+Museum's Symposium: Another World is Possible, on Saturday, 15 November
+2025.</p>
+<p><a href="/files/media-centre/speeches/Navigating_Complexity_Imagination_15Nov25.pdf" rel="noopener nofollow" target="_blank">Transcript</a>
+</p>
