@@ -23,11 +23,3 @@ CSF currently has four Distinguished Fellows:
 We also have two CSF Fellows:
 * **Dr Aaron Maniam,** Fellow of Practice and Director of Digital Transformation Education, University of Oxford’s Blavatnik School of Government
 * **Prof Vaughn Tan,** Assistant Professor in Strategy and Entrepreneurship, University College London's School of Management
-
-
-#### **Senior Researchers**
-
-Initiated in 2015, the Senior Researchers Programme engages PhD students from local universities for specific research projects. Examples of work previously undertaken by Senior Researchers include the implementation and analysis of ethnographic interviews to augment strategic planning.
-
-In addition to tapping on local research expertise, the Senior Researchers Programme aims to provide 
-opportunities to network with local academic institutions and lay a foundation for wider collaborations grounded in mutual research interests.
