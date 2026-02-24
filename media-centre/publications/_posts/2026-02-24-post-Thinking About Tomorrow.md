@@ -24,15 +24,15 @@ the dispositions that its work requires.</p>
 </p>
 <p>This publication is written mainly for public sector foresight practitioners,
 which is who we are.</p>
-<p>
-<br>But if you find anything written so far interesting, then this handbook
+<p></p>
+<p>But if you find anything written so far interesting, then this handbook
 is for you, too. We wrote it to be readable by avoiding jargon and writing
 plainly.</p>
 <p>
 <br><strong>How should one treat this publication?</strong>
 <br>You can read it linearly or modularly. To encourage you to meander through
-the handbook, we made wayfinding easy and left breadcrumbs along the way.
-<br>
+the handbook, we made wayfinding easy and left breadcrumbs along the way.</p>
+<p>
 <br>There is no single right way to do foresight. Throughout, we invite you
 to treat what you read as a starting point. Whether you are new to foresight
 or have practised it for a long time, we hope this handbook will be a useful
