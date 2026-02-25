@@ -41,4 +41,6 @@ or have practised it for a long time, we hope this handbook will be a useful
 and enjoyable companion on your journey into the future we are all heading
 into.</p>
 <p></p>
-<p>Thinking About Tomorrow - Digital Copy (12MB)</p>
+<p><a href="https://go.gov.sg/thinkingabouttomorrow-digitalcopy" rel="noopener nofollow" target="_blank">Thinking About Tomorrow - Digital Copy (12MB)</a>
+</p>
+<p></p>
