@@ -31,10 +31,10 @@ to join our research efforts.</p>
 <p>May - August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Mar 2026</p>
+<p>2 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 Mar 2026</p>
+<p>9 March 2026</p>
 </td>
 </tr>
 </tbody>
