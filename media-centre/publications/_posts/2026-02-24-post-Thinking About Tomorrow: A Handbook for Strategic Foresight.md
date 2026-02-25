@@ -9,12 +9,13 @@ variant: tiptap
 ---
 <p><strong>What is this publication about?</strong>
 </p>
-<p><em>Thinking About Tomorrow </em>articulates&nbsp;the CSF’s updated understanding
+<p><em>Thinking About Tomorrow</em> articulates&nbsp;the CSF’s updated understanding
 of foresight—what we find true in theory and useful in practice. Here,
 we share what we have learned, from both our own experience and others’.
 <br>
 <br><strong>What is in this publication?</strong>
-<br>This publication has three sections:</p>
+</p>
+<p>This publication has three sections:</p>
 <p>1. Foundations—explaining what foresight is, the value it brings, and
 the dispositions that its work requires.</p>
 <p>2. Forms—describing different kinds of foresight projects and offers examples.</p>
@@ -30,7 +31,8 @@ is for you, too. We wrote it to be readable by avoiding jargon and writing
 plainly.</p>
 <p>
 <br><strong>How should one treat this publication?</strong>
-<br>You can read it linearly or modularly. To encourage you to meander through
+</p>
+<p>You can read it linearly or modularly. To encourage you to meander through
 the handbook, we made wayfinding easy and left breadcrumbs along the way.</p>
 <p>
 <br>There is no single right way to do foresight. Throughout, we invite you
@@ -39,5 +41,4 @@ or have practised it for a long time, we hope this handbook will be a useful
 and enjoyable companion on your journey into the future we are all heading
 into.</p>
 <p></p>
-<p><a href="https://go.gov.sg/thinkingabouttomorrow-digitalcopy" rel="noopener nofollow" target="_blank">Thinking About Tomorrow - Digital Copy (12MB)</a>
-</p>
+<p>Thinking About Tomorrow - Digital Copy (12MB)</p>
