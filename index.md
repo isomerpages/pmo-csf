@@ -13,15 +13,15 @@ sections:
       button: who we are
       url: /who-we-are/
       key_highlights:
-        - title: Cracking the Personality Code
+        - title: The Thermodynamics of Dogma
           description: CSF Blog Post
-          url: https://pmo-csf.medium.com/cracking-the-personality-code-past-predictions-present-insights-future-moves-3e6699421da5
+          url: https://pmo-csf.medium.com/the-thermodynamics-of-dogma-1e54c576ad32
+        - title: Thoughts on New World Order(s)
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/thoughts-on-new-world-order-s-4c86dac40af0
         - title: Foresight 2024
           description: CSF Publication (3MB)
           url: https://go.gov.sg/csfforesight2024
-        - title: Futures Tools to Envision a Post-Growth World
-          description: CSF Blog Post
-          url: https://pmo-csf.medium.com/futures-tools-to-envision-a-post-growth-world-14bfc39d4a90
       variant: floating
       alignment: left
       size: md

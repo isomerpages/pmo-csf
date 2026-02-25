@@ -1,5 +1,5 @@
 ---
-title: Thinking About Tomorrow
+title: "Thinking About Tomorrow: A Handbook for Strategic Foresight"
 permalink: /thinking-about-tomorrow/
 date: 2026-02-24
 layout: post
