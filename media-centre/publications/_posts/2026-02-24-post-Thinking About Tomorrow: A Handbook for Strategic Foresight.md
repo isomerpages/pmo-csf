@@ -18,8 +18,7 @@ we share what we have learned, from both our own experience and others’.
 <p>This publication has three sections:</p>
 <p>1. Foundations—explaining what foresight is, the value it brings, and
 the dispositions that its work requires.</p>
-<p>2. Forms—describing different kinds of foresight projects and offering
-examples.</p>
+<p>2. Forms—describing different kinds of foresight projects and offers examples.</p>
 <p>3. Footholds—providing heuristics and ideas for putting foresight to work.</p>
 <p>&nbsp;</p>
 <p><strong>Who is this publication for?</strong>
