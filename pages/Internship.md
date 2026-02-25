@@ -69,7 +69,7 @@ words:</p>
 <p>For more information on eligibility and the application process, please
 refer to the <a href="/files/media-centre/CSF_Internship_Brochure_Mar2026.pdf" rel="noopener nofollow" target="_blank">brochure</a>.</p>
 <p>If you would like to apply, please submit your CV and latest transcript
-to: <a href="mailto:Lim_Yun_Hui@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yun_Hui@pmo.gov.sg</a> and
+to: <a href="mailto:Lim_Yun_Hui@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Yun_Hui@pmo.gov.sg</a> and
 <a href="mailto:Inthira_MAILVAGANAM@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Inthira_MAILVAGANAM@pmo.gov.sg</a>
 </p>
 <p>Please include in your email the subject header: "CSF Internship 2026
