@@ -2,6 +2,7 @@
 permalink: /faq/
 breadcrumb: FAQ
 title: FAQ
+variant: markdown
 ---
 ### **Frequently Asked Questions**
 
@@ -18,16 +19,12 @@ CSF conducts a suite of courses called FutureCraft, hosted at the Singapore Civi
 
 Job vacancies at CSF will be posted on [Careers@Gov.](https://www.careers.gov.sg)
 
-#### **4. How can I apply to be a CSF Fellow?**
-
-We are always on the lookout for interesting people who are keen to contribute their skills and expertise, so let us know what you would like to offer as a CSF Fellow by writing to us at [pmo_csf@pmo.gov.sg](mailto:pmo_csf@pmo.gov.sg.) 
-
-#### **5. How can I apply for an internship at CSF?**
+#### **4. How can I apply for an internship at CSF?**
 
 CSF has three internship periods:
 
 * January to April
-* May to Aug (Summer)
+* May to August
 * September to December
 
-Applications take place in the preceding October, February and June respectively. If you are a year 2 to 4 university student and are interested to apply, you can find more information on the internship programme [here.](https://www.csf.gov.sg/internship-programme/)
+Applications take place in the preceding October, February and July respectively. If you are a year 2 to 4 university student and are interested to apply, you can find more information on the internship programme [here.](https://www.csf.gov.sg/internship-programme/)
