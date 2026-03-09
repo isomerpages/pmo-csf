@@ -2,6 +2,7 @@
 permalink: /our-work/our-approach/
 title: Our Approach
 breadcrumb: Our Approach
+variant: markdown
 ---
 ### **Our Approach**
 
@@ -56,8 +57,3 @@ A quarterly meeting which convenes Deputy Secretary-level officers in the Singap
 
 A bi-monthly meeting which gathers staff level officers involves in futures and strategic planning work from various parts of the Singapore government to share on-going projects, evaluate ideas and examine areas for potential collaboration
 
-In addition, CSF works closely with several partners, including:
-
-* [Civil Service College](https://www.csc.gov.sg/)
-* Ministry of Trade and Industry's Futures Group
-* Ministry of Manpower's Risk Management and Futures Group
