@@ -40,32 +40,6 @@ to join our research efforts.</p>
 </tbody>
 </table>
 <hr>
-<p>Listen to our former interns on their experience with us, in their own
-words:</p>
-<p><strong>Ming Kit on who should apply to CSF</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="357" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/185296342"></iframe>
-</div>
-<hr>
-<p><strong>Winston talks about his memorable experiences at CSF</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/194625983"></iframe>
-</div>
-<p>---</p>
-<p><strong>Zhi Xuan’s advice for new interns</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="357" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/185298228"></iframe>
-</div>
-<p>---</p>
-<p><strong>Yuhuai talks about this greatest challenge at the CSF internship</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="357" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/185292860"></iframe>
-</div>
-<p>---</p>
 <p>For more information on eligibility and the application process, please
 refer to the <a href="/files/media-centre/CSF_Internship_Brochure_Mar2026.pdf" rel="noopener nofollow" target="_blank">brochure</a>.</p>
 <p>If you would like to apply, please submit your CV and latest transcript
