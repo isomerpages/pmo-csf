@@ -44,7 +44,7 @@ Peter Ho is Chairman of the Social Science Research Council (SSRC), Chairman of 
 When he retired from the Singapore Administrative Service in 2010 after a career in the Public Service stretching more than 34 years, he was Head, Civil Service, concurrent with his other appointments of Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security &amp; Intelligence Coordination), and Permanent Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence). He was also the inaugural Chairman of the Maritime and Port Authority of Singapore.
 
 ----
-<img src="/images/who-we-are/tp.jpg" style="max-width: 180px; max-height: 270px;" alt="Jeanette Kwek CSF">
+<img src="/images/who-we-are/tp.jpg" style="max-width: 180px; max-height: 270px;" alt="Terence Poon CSF">
 
 #### **Mr Terence POON,** *Head, Centre for Strategic Futures*
 
