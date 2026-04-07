@@ -22,4 +22,4 @@ CSF currently has four Distinguished Fellows:
 
 We also have two CSF Fellows:
 * **Dr Aaron Maniam,** Fellow of Practice and Director of Digital Transformation Education, University of Oxford’s Blavatnik School of Government
-* **Prof Vaughn Tan,** Assistant Professor in Strategy and Entrepreneurship, University College London's School of Management
+* **Prof Vaughn Tan,** Honorary Associate Professor of Strategy and Entrepreneurship, University College London's School of Management
