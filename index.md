@@ -19,9 +19,9 @@ sections:
         - title: Thoughts on New World Order(s)
           description: CSF Blog Post
           url: https://pmo-csf.medium.com/thoughts-on-new-world-order-s-4c86dac40af0
-        - title: Foresight 2024
-          description: CSF Publication (3MB)
-          url: https://go.gov.sg/csfforesight2024
+        - title: Dying a ‘Good’ Death
+          description: CSF Blog Post
+          url: https://pmo-csf.medium.com/dying-a-good-death-the-evolving-perspectives-around-assisted-dying-f1a013840198
       variant: floating
       alignment: left
       size: md
