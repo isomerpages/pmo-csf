@@ -32,5 +32,7 @@ familiar language may no longer be enough.</p>
 risk avoidance, or pessimism, this publication offers a different starting
 point. Another way of thinking, working, and living together is possible
 — and sometimes, the first step is to find better words for it.</p>
+<p><strong><a href="https://go.gov.sg/glossary-for-other-worlds" rel="noopener nofollow" target="_blank">Another__is Possible: A Glossary for Other Worlds (16MB)</a></strong>
+</p>
 <p><em>The publication is released under Creative Commons BY-NC 4.0. Readers are welcome to share, adapt, and draw from it for non-commercial purposes, with attribution.</em>
 </p>
