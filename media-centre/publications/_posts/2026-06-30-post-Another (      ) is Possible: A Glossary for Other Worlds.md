@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p><strong>Another ___ is Possible: A Glossary for Other Worlds</strong> came
-out of discussions had in Foresight Conference 2024. Rather than produce
+out of discussions we had in Foresight Conference 2024. Rather than produce
 a usual post-conference report, CSF took time to sit with the ideas that
 surfaced. So much of our work moves quickly from event to output, from
 conversation to summary; the Glossary instead gives these ideas time to
